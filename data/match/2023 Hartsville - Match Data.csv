@@ -1,0 +1,243 @@
+event,team_number,match_number,team_alliance,team_position,field_position,auto_high_cubes,auto_mid_cubes,auto_hybrid_cubes,auto_high_cones,auto_mid_cones,auto_hybrid_cones,auto_balance,auto_dock,auto_mobility,teleop_high_cubes,teleop_mid_cubes,teleop_hybrid_cubes,teleop_high_cones,teleop_mid_cones,teleop_hybrid_cones,teleop_shuttle,teleop_defend,end_balance,end_dock,end_park,end_num_on_station,no_show,broke_down,summary_notes,timestamp
+Hartsville,281,1,blue,3,Center,2,0,0,0,0,0,FALSE,TRUE,FALSE,2,0,0,2,0,0,FALSE,FALSE,FALSE,FALSE,TRUE,0,FALSE,FALSE,they ended auto without balancing but still on the station,2023-03-24 18:32:24
+Hartsville,281,9,red,1,Center,2,0,0,0,0,0,FALSE,TRUE,TRUE,2,0,0,2,0,0,TRUE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,Reliable but slow moving,2023-03-24 18:25:07
+Hartsville,281,12,red,3,Bump,2,0,0,0,0,0,null,null,TRUE,2,0,0,3,0,0,null,null,null,null,TRUE,0,null,null,null,2023-03-24 18:47:54
+Hartsville,281,17,blue,2,Bump,2,0,0,0,0,0,FALSE,FALSE,TRUE,2,0,0,3,0,0,TRUE,TRUE,FALSE,FALSE,TRUE,2,FALSE,FALSE,,2023-03-24 18:25:12
+Hartsville,281,21,red,3,Center,2,0,0,0,0,0,null,TRUE,TRUE,2,0,0,2,0,2,null,null,TRUE,null,null,2,null,null,Very good with cubes and decent cycle speed,2023-03-24 18:32:35
+Hartsville,281,24,red,1,Bump,2,0,0,0,0,0,FALSE,FALSE,TRUE,0,0,0,2,2,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,Slow but accurate with scoring,2023-03-24 18:41:33
+Hartsville,281,30,red,2,Center,2,0,0,0,0,0,null,TRUE,null,0,0,0,3,0,0,null,null,TRUE,null,FALSE,2,null,null,null,2023-03-24 18:26:08
+Hartsville,281,34,blue,2,Bump,2,0,0,0,0,0,null,null,TRUE,0,0,0,2,2,0,null,null,null,null,TRUE,2,null,null,Kept going to place but didnt make it,2023-03-24 18:40:27
+Hartsville,281,37,blue,2,Bump,0,0,0,2,0,0,FALSE,FALSE,TRUE,2,0,0,2,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 18:32:43
+Hartsville,281,42,red,3,Lane,0,0,0,2,0,0,null,null,TRUE,2,0,0,2,0,2,null,null,TRUE,null,null,2,null,null,null,2023-03-24 18:48:17
+Hartsville,342,1,red,1,Bump,2,0,0,0,0,0,FALSE,FALSE,TRUE,2,0,0,3,0,2,FALSE,FALSE,FALSE,FALSE,TRUE,0,FALSE,FALSE,very fast good with cones,2023-03-24 18:24:52
+Hartsville,342,5,blue,2,Center,2,0,0,0,0,0,null,null,TRUE,2,2,0,2,0,0,null,null,TRUE,null,null,2,null,null,Count may be inaccurate. lost focus.,2023-03-24 18:49:13
+Hartsville,342,10,red,1,Bump,0,0,0,0,0,0,null,null,null,0,2,0,0,0,0,null,null,null,null,TRUE,2,null,null,Trouble scoring cones,2023-03-24 18:25:07
+Hartsville,342,17,blue,1,Lane,2,0,0,0,0,0,FALSE,FALSE,TRUE,0,2,0,2,2,2,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 18:47:54
+Hartsville,342,20,blue,2,Bump,0,0,2,0,0,0,null,null,TRUE,2,0,0,0,2,0,null,null,TRUE,null,null,2,null,null,Grabs really well and moves smoothly,2023-03-24 18:25:12
+Hartsville,342,23,red,1,Bump,0,0,0,0,0,0,null,null,FALSE,2,0,2,0,2,0,null,null,TRUE,null,null,3,null,null,null,2023-03-24 18:32:35
+Hartsville,342,28,red,3,Center,0,0,0,0,0,0,TRUE,FALSE,null,2,0,0,2,0,0,null,null,TRUE,null,null,2,null,null,null,2023-03-24 18:41:33
+Hartsville,343,35,blue,2,Lane,2,0,0,0,0,0,null,null,TRUE,0,0,2,2,0,2,null,null,TRUE,null,null,2,null,null,null,2023-03-24 18:48:09
+Hartsville,342,36,red,2,Center,0,0,2,0,0,0,TRUE,null,null,2,0,0,2,0,2,null,null,TRUE,null,null,2,null,null,null,2023-03-24 18:40:18
+Hartsville,342,39,blue,3,Center,0,0,2,0,0,0,TRUE,null,null,2,0,0,2,2,0,null,null,null,null,null,0,null,null,Tried to triple balance but slipped,2023-03-24 18:32:56
+Hartsville,342,42,blue,2,Center,0,0,2,0,0,0,TRUE,FALSE,FALSE,2,0,2,2,0,0,FALSE,FALSE,FALSE,FALSE,TRUE,2,FALSE,FALSE,,2023-03-24 18:26:33
+Hartsville,343,3,red,1,Center,0,0,2,0,0,0,TRUE,null,null,2,2,0,2,2,0,null,null,TRUE,null,null,2,null,null,Very fast with pieces only scorer this match,2023-03-24 18:40:18
+Hartsville,343,7,blue,2,Center,0,0,0,0,0,0,TRUE,FALSE,FALSE,0,2,4,0,0,0,FALSE,TRUE,TRUE,FALSE,FALSE,2,FALSE,FALSE,They blocked off a red robot from moving with another robot,2023-03-24 18:17:50
+Hartsville,343,12,red,2,Center,0,0,2,0,0,0,TRUE,null,null,2,0,2,2,0,0,null,null,TRUE,null,null,2,null,null,null,2023-03-24 18:01:10
+Hartsville,343,16,blue,1,Center,0,2,0,0,0,0,TRUE,FALSE,TRUE,0,0,2,2,0,2,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,Has difficeulty on placeing high cones,2023-03-24 17:53:49
+Hartsville,343,25,red,2,Bump,2,0,0,0,0,0,FALSE,FALSE,FALSE,2,0,4,0,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,Claw wasnt working in begining?,2023-03-24 17:45:50
+Hartsville,343,31,red,3,Center,2,0,0,0,0,0,FALSE,TRUE,TRUE,2,0,2,2,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 17:33:45
+Hartsville,343,38,red,3,Lane,2,0,0,0,0,0,null,null,TRUE,0,0,3,2,2,0,null,null,null,null,null,2,null,null,null,2023-03-24 17:26:31
+Hartsville,1051,5,red,2,Lane,0,0,0,2,0,0,FALSE,FALSE,TRUE,0,0,0,0,0,0,TRUE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 17:26:19
+Hartsville,1051,9,blue,1,Lane,0,0,0,2,0,0,null,FALSE,TRUE,2,0,0,0,0,2,null,null,null,null,TRUE,2,null,null,Slow cycle time and had trouble linning up for high cone,2023-03-24 17:34:02
+Hartsville,1051,14,blue,1,Lane,0,0,0,2,0,0,FALSE,FALSE,TRUE,2,0,0,2,2,2,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 17:54:44
+Hartsville,1051,18,red,2,Lane,0,0,0,2,0,0,null,null,TRUE,2,0,0,2,0,0,null,null,null,TRUE,null,0,null,null,can balance didnt,2023-03-24 18:03:53
+Hartsville,1051,22,red,3,Lane,0,0,0,2,0,0,null,null,TRUE,2,0,0,2,0,0,null,null,null,null,TRUE,2,null,null,Can not pick up from ground,2023-03-24 18:17:14
+Hartsville,1051,25,red,3,Lane,0,0,0,0,0,0,FALSE,FALSE,TRUE,0,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,TRUE,0,FALSE,FALSE,,2023-03-24 17:25:36
+Hartsville,1051,28,red,2,Lane,0,0,0,0,0,0,null,null,TRUE,2,0,2,2,0,2,null,null,null,null,TRUE,2,null,null,null,2023-03-24 17:34:16
+Hartsville,1051,33,blue,3,Lane,2,0,0,0,0,0,null,null,TRUE,2,0,2,2,0,2,null,null,null,null,TRUE,2,null,null,null,2023-03-24 18:01:26
+Hartsville,1051,38,blue,3,Lane,0,0,0,2,0,0,null,null,TRUE,2,0,2,0,0,0,null,null,null,null,TRUE,2,null,null,Intake is slow and doesn't work the best,2023-03-24 17:54:12
+Hartsville,1051,42,red,1,Lane,0,0,0,0,0,2,null,null,TRUE,0,0,0,2,0,2,TRUE,null,null,null,TRUE,0,null,TRUE,Stop on the bump of daeth and died,2023-03-24 17:45:54
+Hartsville,1102,2,blue,2,Lane,2,0,0,0,0,0,null,null,TRUE,0,0,7,0,0,0,null,null,null,TRUE,null,2,null,null,Struggled almodt tipping over along with auto,2023-03-24 18:01:57
+Hartsville,1102,7,blue,1,Lane,2,0,0,0,0,0,FALSE,FALSE,TRUE,0,0,0,2,0,3,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,Popped cube and trouble cordinating with human player,2023-03-24 17:26:12
+Hartsville,1102,12,red,1,Lane,0,0,2,0,0,0,null,null,TRUE,0,0,6,0,0,0,TRUE,null,TRUE,null,null,2,null,null,null,2023-03-24 17:33:46
+Hartsville,1102,23,red,2,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,2,3,0,0,null,null,TRUE,null,null,3,null,null,Missed the cube out of auto then scored in the same area twice. One large crash,2023-03-24 17:45:44
+Hartsville,1102,26,red,2,Center,0,0,2,0,0,0,TRUE,null,null,2,0,3,0,0,0,null,null,TRUE,null,null,3,null,TRUE,Claw got stuck,2023-03-24 17:53:41
+Hartsville,1102,30,blue,3,Lane,2,0,0,0,0,0,FALSE,FALSE,TRUE,0,0,0,0,3,2,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 18:01:06
+Hartsville,1102,33,blue,2,Center,2,0,0,0,0,0,TRUE,null,null,0,2,0,2,2,0,null,null,FALSE,null,TRUE,2,null,null,move smooth and swift and also grab and place well,2023-03-24 18:16:57
+Hartsville,1102,40,blue,3,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,0,2,2,0,null,null,null,null,null,0,null,null,Drives well but missing the scoring points,2023-03-24 17:17:08
+Hartsville,1102,44,red,3,Bump,0,0,2,0,0,0,null,null,TRUE,0,0,2,2,2,0,null,null,null,null,TRUE,2,null,null,null,2023-03-24 17:08:23
+Hartsville,1287,4,blue,3,Lane,0,0,0,0,0,2,FALSE,FALSE,TRUE,2,0,0,2,0,0,FALSE,FALSE,FALSE,FALSE,TRUE,2,FALSE,FALSE,arm moved very slowly. took a long time to score pieces and not too accurate,2023-03-24 17:00:37
+Hartsville,1287,9,blue,3,Bump,0,0,0,0,0,2,null,null,TRUE,2,2,0,2,0,0,null,TRUE,TRUE,null,null,2,null,null,inaccurate cone placement,2023-03-24 16:51:02
+Hartsville,1287,13,blue,3,Bump,0,0,0,2,0,0,null,null,TRUE,2,0,0,2,0,2,null,null,TRUE,null,null,2,null,null,Used both cones and cubes.,2023-03-24 16:42:38
+Hartsville,1287,17,red,2,Lane,0,0,0,0,0,2,null,null,TRUE,2,0,2,2,0,0,null,null,null,TRUE,FALSE,0,null,null,Can balance didnt balance this match team mate lost it Problem with cones,2023-03-24 16:51:35
+Hartsville,1287,22,blue,3,Lane,0,0,0,2,0,0,null,null,TRUE,0,2,0,4,0,0,null,null,TRUE,null,null,2,null,null,Moves smoothly and picks up well but mainly drops cones down,2023-03-24 16:42:23
+Hartsville,1287,27,blue,2,Lane,0,0,0,2,0,0,null,null,TRUE,2,0,0,2,0,2,null,null,null,null,null,0,null,null,Nothing worth note,2023-03-24 16:34:24
+Hartsville,1287,30,red,1,Lane,0,0,0,2,0,0,null,null,TRUE,2,0,0,2,0,0,null,null,TRUE,null,null,2,null,null,null,2023-03-24 17:16:43
+Hartsville,1287,33,red,1,Lane,0,0,0,2,0,0,null,null,TRUE,0,0,2,0,0,2,FALSE,null,FALSE,null,TRUE,2,null,null,1287. is fast but it’s large and inaccurate when placing. They missed multiple high comes and cubes.,2023-03-24 17:00:44
+Hartsville,1293,5,blue,1,Lane,0,0,0,0,0,0,null,null,null,0,0,2,0,0,0,null,null,TRUE,null,null,2,null,TRUE,After a collision with their partner (342) the robot was knocked out of commission,2023-03-24 17:08:36
+Hartsville,1293,8,red,2,Lane,0,0,2,0,0,0,null,null,TRUE,0,0,2,0,0,0,null,null,null,TRUE,null,2,null,null,null,2023-03-24 17:17:28
+Hartsville,1293,11,red,3,Bump,0,0,2,0,0,0,null,null,null,0,0,3,0,0,0,null,null,TRUE,null,null,2,null,null,picked up cubes from sub station. human player is not reliable and consistantly misses the chute and the robot,2023-03-24 17:08:58
+Hartsville,1293,21,blue,1,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,4,0,0,0,TRUE,null,null,null,TRUE,2,null,null,Fast across entire field. Can only place in hybrid nodes,2023-03-24 17:01:41
+Hartsville,1293,26,red,1,Lane,0,0,2,0,0,0,null,null,TRUE,0,0,2,0,0,0,null,null,TRUE,null,null,3,null,null,null,2023-03-24 16:51:30
+Hartsville,1293,29,blue,3,Bump,0,0,2,0,0,0,null,null,TRUE,0,0,3,0,0,0,null,null,TRUE,null,null,2,null,null,null,2023-03-24 16:42:37
+Hartsville,1293,35,red,2,Center,0,0,0,0,0,0,null,null,TRUE,0,0,4,0,0,0,null,null,TRUE,null,null,3,null,null,null,2023-03-24 16:34:23
+Hartsville,1293,41,red,2,Bump,0,0,2,0,0,0,null,null,TRUE,0,0,3,0,0,0,TRUE,null,TRUE,null,null,2,null,null,null,2023-03-24 17:17:37
+Hartsville,1293,44,blue,3,Bump,0,0,2,0,0,0,null,null,TRUE,0,0,6,0,0,0,null,null,TRUE,null,null,2,null,null,null,2023-03-24 17:08:47
+Hartsville,1319,1,blue,1,Lane,0,0,0,0,2,0,FALSE,FALSE,TRUE,2,2,0,2,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,robot was slow due to being top-heavy. did not fall due but toppled when tried to increase speed,2023-03-24 16:52:19
+Hartsville,1319,6,red,3,Center,0,2,0,0,0,0,null,TRUE,null,2,0,0,0,0,2,null,null,TRUE,null,null,2,null,null,null,2023-03-24 16:43:30
+Hartsville,1319,10,red,2,Center,0,2,0,0,0,0,FALSE,TRUE,null,2,0,0,2,0,0,null,null,TRUE,null,null,2,null,null,null,2023-03-24 16:34:02
+Hartsville,1319,18,blue,3,Center,0,0,0,0,0,0,TRUE,null,TRUE,0,0,0,2,0,0,null,null,TRUE,null,null,2,null,null,Robot only used arm once for high cone.,2023-03-24 17:16:38
+Hartsville,1319,22,red,2,Center,0,0,0,0,0,0,TRUE,null,null,0,0,0,0,0,0,null,null,null,TRUE,null,2,null,TRUE,Broke their grabber and just drove around the whole match,2023-03-24 17:08:48
+Hartsville,1319,26,blue,1,Center,0,0,0,0,0,0,TRUE,FALSE,null,2,0,0,2,0,0,TRUE,null,FALSE,TRUE,null,2,null,null,null,2023-03-24 17:00:37
+Hartsville,1319,30,blue,1,Bump,0,2,0,0,0,0,FALSE,FALSE,TRUE,2,0,2,2,0,0,FALSE,FALSE,FALSE,FALSE,TRUE,2,FALSE,FALSE,,2023-03-24 16:51:51
+Hartsville,1319,34,red,3,Center,0,0,0,0,0,0,TRUE,null,TRUE,0,2,0,2,0,2,null,null,TRUE,null,null,2,null,null,null,2023-03-24 16:42:45
+Hartsville,1319,38,blue,2,Bump,0,0,0,0,2,0,FALSE,FALSE,TRUE,0,0,0,2,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 16:33:22
+Hartsville,1319,44,blue,2,Center,0,0,0,0,0,0,TRUE,null,FALSE,0,0,0,0,0,0,null,TRUE,TRUE,null,null,2,null,null,didn’t attempt to get any pieces. only tried to block opponents,2023-03-24 17:16:56
+Hartsville,1539,5,red,3,Bump,0,0,0,0,0,0,FALSE,FALSE,FALSE,0,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,TRUE,2,FALSE,TRUE,,2023-03-24 17:08:41
+Hartsville,1539,8,red,1,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,0,0,0,0,null,null,null,null,null,0,null,null,controlled two game pieces and cant pick anything up,2023-03-24 17:00:53
+Hartsville,1539,8,red,1,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,0,0,0,0,null,null,null,null,null,0,null,null,controlled two game pieces and cant pick anything up,2023-03-24 16:52:24
+Hartsville,1539,13,red,3,Bump,0,0,0,0,0,0,null,null,TRUE,2,0,2,0,0,0,TRUE,null,TRUE,null,null,2,null,null,null,2023-03-24 16:42:31
+Hartsville,1539,18,blue,2,Bump,0,0,0,0,0,0,null,null,TRUE,0,0,0,0,0,2,TRUE,null,FALSE,null,TRUE,2,null,null,null,2023-03-24 16:33:31
+Hartsville,1539,21,red,1,Bump,0,0,0,0,0,0,null,null,TRUE,0,2,0,0,0,2,null,null,TRUE,null,null,2,null,null,null,2023-03-24 11:40:42
+Hartsville,1539,31,blue,3,Bump,0,0,0,0,0,0,FALSE,FALSE,TRUE,2,0,0,0,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,Bot broke arm spool and very slow,2023-03-24 11:13:10
+Hartsville,1539,36,blue,3,Bump,0,0,0,0,0,0,null,null,TRUE,0,2,2,0,0,0,null,null,null,null,TRUE,2,null,null,null,2023-03-24 11:29:17
+Hartsville,1539,45,blue,1,Lane,0,0,0,0,0,0,null,null,TRUE,2,0,0,2,0,0,TRUE,null,null,TRUE,FALSE,0,null,null,Slow arm extention. but great placements,2023-03-24 11:05:00
+Hartsville,1539,45,blue,1,Lane,0,0,0,0,0,0,null,null,TRUE,2,0,0,2,0,0,TRUE,null,null,TRUE,FALSE,0,null,null,Slow arm extention. but great placements,2023-03-24 10:57:13
+Hartsville,1758,4,blue,2,Center,0,0,0,0,0,2,null,TRUE,TRUE,0,0,2,0,0,2,null,null,TRUE,null,null,2,null,null,Grabber was loose or on a swivel.,2023-03-24 10:47:44
+Hartsville,1758,8,blue,3,Center,0,0,0,0,2,0,null,TRUE,null,0,2,0,0,2,0,TRUE,null,TRUE,null,null,2,null,null,Partially struggled with getting pieces from substation,2023-03-24 15:43:20
+Hartsville,1758,12,blue,2,Center,0,0,0,0,2,0,FALSE,FALSE,FALSE,0,0,0,0,2,2,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 15:51:59
+Hartsville,1758,19,blue,1,Center,0,0,0,0,0,2,TRUE,FALSE,TRUE,0,2,0,0,3,0,TRUE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,More accurate placement in tele-op. Missed placing one cone in autonomous,2023-03-24 16:04:55
+Hartsville,1758,24,red,3,Center,0,0,0,0,2,0,null,TRUE,null,0,2,0,0,2,0,null,null,TRUE,null,null,3,null,null,Good at mid nodes,2023-03-24 16:12:14
+Hartsville,1758,32,blue,3,Center,0,0,0,0,2,0,null,null,TRUE,0,2,2,0,2,2,null,null,TRUE,null,null,2,null,null,Good cycle time but only scores middle nodes,2023-03-24 16:20:26
+Hartsville,1758,38,red,1,Center,1,0,0,0,0,0,TRUE,FALSE,FALSE,0,0,0,0,2,2,FALSE,TRUE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 15:24:53
+Hartsville,1758,42,red,2,Center,0,0,2,0,0,0,null,null,TRUE,0,0,2,0,0,2,null,null,TRUE,FALSE,null,2,null,null,null,2023-03-24 16:20:35
+Hartsville,1758,46,blue,2,Center,0,0,0,0,2,0,TRUE,null,TRUE,0,2,2,0,2,2,TRUE,FALSE,null,null,TRUE,2,null,null,could place cones and cubes well,2023-03-24 16:12:34
+Hartsville,2815,2,blue,3,Center,0,0,0,0,0,0,TRUE,null,TRUE,0,2,0,0,2,2,null,null,null,TRUE,null,2,null,null,spent most of match fumbling with teammates,2023-03-24 16:05:08
+Hartsville,2815,9,blue,2,Center,0,0,0,0,0,0,FALSE,TRUE,FALSE,0,0,0,0,2,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,another slow robot,2023-03-24 15:53:53
+Hartsville,2815,14,red,2,Center,0,0,0,0,0,0,TRUE,FALSE,FALSE,0,0,4,0,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,They seemed to stop or lose connectIon? only can go for the hybrid witb cubes,2023-03-24 15:46:40
+Hartsville,2815,17,blue,3,Center,0,0,0,0,0,0,TRUE,null,TRUE,0,0,2,0,0,2,null,null,TRUE,null,null,2,null,null,Grabber seamed weak or loose,2023-03-24 15:35:24
+Hartsville,2815,20,red,1,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,0,0,0,0,null,TRUE,null,null,null,2,null,null,null,2023-03-24 16:21:28
+Hartsville,2815,25,red,1,Center,0,0,0,0,0,0,TRUE,FALSE,TRUE,0,0,2,0,0,0,TRUE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 16:12:46
+Hartsville,2815,28,blue,2,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,2,0,0,2,null,null,null,null,null,2,null,TRUE,Did little and appeared to stop to do nothing.,2023-03-24 16:06:10
+Hartsville,2815,36,blue,1,Center,0,0,0,0,0,0,TRUE,TRUE,TRUE,0,0,4,0,0,2,TRUE,null,TRUE,TRUE,FALSE,2,null,null,Mainly did hybrid nodes. can pick up the cube from any angle\rotation,2023-03-24 15:52:32
+Hartsville,2815,43,blue,3,Center,0,0,0,0,0,0,TRUE,FALSE,TRUE,0,0,2,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,FALSE,FALSE,Messed up balance,2023-03-24 15:44:52
+Hartsville,3489,1,red,3,Center,0,0,2,0,0,0,TRUE,FALSE,FALSE,0,0,0,0,2,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,FALSE,FALSE,Got cone stuck under robot while on charge station,2023-03-24 16:20:28
+Hartsville,3489,6,blue,3,Center,0,0,1,0,0,0,TRUE,FALSE,FALSE,0,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,2,FALSE,TRUE,lost comes during match. robot was physically falling apart,2023-03-24 16:12:05
+Hartsville,3489,11,red,2,Center,0,0,2,0,0,0,null,null,null,0,0,0,0,0,0,null,null,null,null,TRUE,2,null,TRUE,null,2023-03-24 16:21:02
+Hartsville,3489,15,red,2,Bump,0,0,2,0,0,0,null,null,null,0,0,0,0,2,0,null,null,TRUE,FALSE,null,2,null,null,Focuses on cones seems to be very touch sensitive only goes for middle and low,2023-03-24 16:11:34
+Hartsville,3489,24,blue,2,Center,0,0,2,0,0,0,TRUE,null,null,0,0,0,0,2,0,null,null,null,null,TRUE,2,null,null,Only middle struggles a bit with placing,2023-03-24 16:05:16
+Hartsville,3489,29,red,1,Center,0,0,2,0,0,0,TRUE,null,TRUE,0,0,0,0,2,2,null,null,TRUE,null,null,2,null,null,null,2023-03-24 15:52:26
+Hartsville,3489,34,blue,1,Lane,0,0,2,0,0,0,null,null,TRUE,0,0,0,0,2,0,TRUE,null,TRUE,TRUE,null,2,null,null,struggled to grab the cone.,2023-03-24 15:44:28
+Hartsville,3489,43,red,3,Lane,0,0,2,0,0,0,FALSE,FALSE,TRUE,0,0,0,2,2,2,TRUE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 15:35:29
+Hartsville,3489,46,red,3,Lane,0,0,2,0,0,0,null,null,TRUE,0,0,0,0,2,2,TRUE,null,TRUE,null,null,2,null,null,null,2023-03-24 15:51:44
+Hartsville,3490,2,red,1,Center,0,0,2,0,0,0,null,TRUE,null,2,0,0,2,0,2,null,null,TRUE,null,null,2,null,null,Struggling to aline and pick up pieces blanced in auto but not quick enough to count point wise,2023-03-24 15:43:16
+Hartsville,3490,5,red,1,Center,2,0,0,0,0,0,null,TRUE,TRUE,0,0,0,2,0,0,null,null,TRUE,null,null,2,null,null,null,2023-03-24 16:12:24
+Hartsville,3490,13,blue,2,Center,0,0,0,0,0,0,TRUE,FALSE,TRUE,0,0,3,0,2,2,TRUE,TRUE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 16:20:33
+Hartsville,3490,16,red,2,Center,2,0,0,0,0,0,null,TRUE,null,0,0,0,0,0,0,null,null,null,TRUE,null,2,null,null,Seems to go to fast and problem with claw,2023-03-24 15:24:51
+Hartsville,3490,19,red,3,Center,2,0,0,0,0,0,FALSE,TRUE,TRUE,0,0,0,2,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,FALSE,FALSE,Struggled grabbing cone from human player,2023-03-24 15:16:32
+Hartsville,3490,23,blue,1,Center,2,0,0,0,0,0,null,TRUE,TRUE,0,0,2,2,0,0,TRUE,null,TRUE,null,null,2,null,null,Couldn’t easily collect pieces from substation. close to getting balance in autonomous but charge station was still moving after 3 seconds,2023-03-24 15:00:30
+Hartsville,3490,30,blue,2,Center,0,0,2,0,0,0,null,null,TRUE,0,0,0,2,0,0,null,null,TRUE,null,null,2,null,null,Failed ballence attempt.,2023-03-24 15:08:32
+Hartsville,3490,34,blue,3,Center,2,0,0,0,0,0,TRUE,null,TRUE,0,0,0,2,0,0,null,null,TRUE,null,null,2,null,null,almost tipped,2023-03-24 14:52:16
+Hartsville,3490,38,red,2,Center,2,0,0,0,0,0,null,TRUE,null,0,0,0,2,0,0,null,null,TRUE,null,null,2,null,null,null,2023-03-24 14:43:37
+Hartsville,3490,41,red,3,Center,0,0,0,0,0,0,TRUE,null,TRUE,0,0,0,2,0,2,null,null,TRUE,null,null,3,null,null,null,2023-03-24 15:24:57
+Hartsville,3976,1,red,2,Lane,0,0,0,0,0,0,FALSE,FALSE,TRUE,0,0,2,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,FALSE,TRUE,,2023-03-24 15:17:18
+Hartsville,3976,8,blue,1,Bump,0,0,0,0,0,0,null,null,TRUE,0,0,2,0,0,0,null,null,null,TRUE,FALSE,2,null,null,Arm was out of control and destroyed itself,2023-03-24 15:09:17
+Hartsville,3976,11,red,1,Lane,0,0,2,0,0,0,null,null,TRUE,0,0,0,0,0,0,null,null,null,null,TRUE,2,null,TRUE,stopped dead after auto,2023-03-24 15:08:21
+Hartsville,3976,15,blue,1,Bump,0,0,0,0,0,0,FALSE,FALSE,TRUE,0,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,0,FALSE,TRUE,they brock down at the end(last 8 sec),2023-03-24 14:59:54
+Hartsville,3976,19,red,1,Lane,0,0,0,0,0,0,FALSE,FALSE,FALSE,0,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 15:01:16
+Hartsville,3976,25,blue,3,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,0,0,0,0,null,null,TRUE,null,null,2,null,TRUE,Arm broke. Robot unable to score,2023-03-24 14:53:00
+Hartsville,3976,30,red,3,Bump,0,0,0,0,0,0,null,null,TRUE,0,0,0,0,0,0,TRUE,null,null,null,TRUE,2,null,null,null,2023-03-24 14:43:19
+Hartsville,3976,36,red,1,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,0,0,0,0,null,TRUE,TRUE,null,null,2,null,null,null,2023-03-24 15:24:12
+Hartsville,3976,40,blue,2,Bump,0,0,0,0,0,0,null,null,null,0,0,0,0,0,0,TRUE,null,null,null,null,0,null,null,Broken arm,2023-03-24 15:15:37
+Hartsville,3976,44,blue,1,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,0,0,0,0,TRUE,null,null,null,TRUE,2,null,TRUE,claw and arm broken. possibly bad drive team,2023-03-24 15:08:13
+Hartsville,4073,2,blue,1,Bump,0,0,0,0,0,0,FALSE,FALSE,TRUE,0,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,FALSE,TRUE,Robot lost comms halfway in match,2023-03-24 14:51:22
+Hartsville,4073,5,blue,3,Bump,0,0,0,0,0,0,FALSE,FALSE,FALSE,0,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,FALSE,FALSE,got beached on the charge station midgame but was helped by partner. very thin but not sure if they are able to balance,2023-03-24 14:43:12
+Hartsville,4073,10,blue,3,Bump,0,0,0,0,0,0,null,null,null,0,0,0,0,0,0,null,null,null,null,TRUE,2,null,TRUE,removed cube from field accidentally after moving forward,2023-03-24 14:43:02
+Hartsville,4073,14,blue,3,Bump,0,0,2,0,0,0,FALSE,FALSE,TRUE,0,0,0,0,0,0,TRUE,FALSE,FALSE,FALSE,TRUE,2,FALSE,FALSE,Did not focus on cone or cube collection.,2023-03-24 14:52:11
+Hartsville,4073,21,red,2,Lane,0,0,2,0,0,0,FALSE,FALSE,TRUE,0,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,0,FALSE,TRUE,Lost coms 10 seconds in,2023-03-24 14:59:56
+Hartsville,4073,27,red,1,Lane,0,0,2,0,0,0,null,null,TRUE,0,0,0,0,0,0,null,TRUE,TRUE,null,null,2,null,null,null,2023-03-24 15:08:16
+Hartsville,4073,31,red,1,Bump,0,0,2,0,0,0,FALSE,FALSE,TRUE,0,0,2,0,0,2,TRUE,FALSE,FALSE,FALSE,TRUE,2,FALSE,FALSE,they had difficulty moving and had to had alliemace member ouch them into the community. they had difficulties as such on more than one occasion,2023-03-24 15:15:50
+Hartsville,4073,34,red,1,Bump,0,0,0,0,0,0,null,null,TRUE,0,0,2,0,0,0,TRUE,TRUE,null,null,TRUE,2,null,null,null,2023-03-24 15:24:35
+Hartsville,4073,37,red,2,Lane,0,0,2,0,0,0,FALSE,FALSE,TRUE,0,0,2,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,0,FALSE,FALSE,,2023-03-24 14:33:29
+Hartsville,4073,41,blue,2,Bump,0,0,2,0,0,0,null,null,TRUE,0,0,0,0,0,0,TRUE,TRUE,TRUE,null,null,2,null,null,null,2023-03-24 14:26:06
+Hartsville,4073,46,blue,3,Bump,0,0,2,0,0,0,FALSE,FALSE,TRUE,0,0,0,0,0,3,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 14:19:21
+Hartsville,4451,8,red,3,Center,0,0,2,0,0,0,TRUE,null,null,2,0,2,3,0,0,null,null,null,null,TRUE,0,null,null,auto ran incorrectly and missed both a cone and a cube,2023-03-24 14:03:07
+Hartsville,4451,11,blue,2,Center,0,0,0,0,0,0,FALSE,TRUE,FALSE,0,0,0,0,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,TRUE,,2023-03-24 14:32:47
+Hartsville,4451,14,blue,2,Center,2,0,0,0,0,0,TRUE,FALSE,TRUE,2,0,0,4,0,0,TRUE,TRUE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 14:25:36
+Hartsville,4451,24,red,2,Center,2,0,0,0,0,0,TRUE,null,TRUE,0,0,0,3,2,0,null,null,TRUE,FALSE,null,2,null,null,We got a cube stuck in the falcon gearing on the top roller for the intake,2023-03-24 14:18:09
+Hartsville,4451,32,red,1,Center,2,0,0,0,0,0,TRUE,FALSE,FALSE,2,0,0,4,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 14:10:42
+Hartsville,4451,35,blue,3,Center,2,0,0,0,0,0,null,FALSE,TRUE,2,0,2,3,0,2,null,null,TRUE,null,null,2,null,null,null,2023-03-24 14:01:47
+Hartsville,4451,43,blue,2,Lane,2,0,0,0,0,0,FALSE,FALSE,TRUE,0,2,0,2,2,2,TRUE,FALSE,FALSE,FALSE,TRUE,2,FALSE,FALSE,pretty good robot. able to score many pieces. I wonder what amazing team made it,2023-03-24 14:33:19
+Hartsville,4533,3,blue,2,Lane,2,0,0,0,0,0,null,null,TRUE,2,0,0,2,0,0,null,null,TRUE,null,null,3,null,null,Had troube grabing cube.,2023-03-24 14:27:33
+Hartsville,4533,6,red,1,Bump,2,0,0,0,0,0,null,null,TRUE,0,0,0,2,0,0,null,null,null,null,TRUE,2,null,null,Fast drive slow pick up,2023-03-24 14:17:26
+Hartsville,4533,10,blue,1,Center,0,0,2,0,0,0,null,null,null,2,0,0,2,0,2,null,null,TRUE,null,null,2,null,null,Decent cycle time and use both game pieces,2023-03-24 14:32:58
+Hartsville,4533,15,blue,2,Center,2,0,0,0,0,0,FALSE,TRUE,FALSE,0,0,0,3,0,0,TRUE,null,null,TRUE,null,2,null,null,null,2023-03-24 14:25:43
+Hartsville,4533,19,blue,2,Bump,2,0,0,0,0,0,FALSE,FALSE,TRUE,0,0,2,2,0,0,FALSE,FALSE,FALSE,FALSE,TRUE,2,FALSE,FALSE,,2023-03-24 12:38:03
+Hartsville,4533,24,red,3,Lane,2,0,0,0,0,0,null,null,TRUE,0,2,0,2,2,0,null,null,null,null,TRUE,0,null,null,Very fast,2023-03-24 14:01:48
+Hartsville,4533,29,blue,1,Lane,2,0,0,0,0,0,null,null,TRUE,0,0,0,2,2,2,TRUE,null,FALSE,null,TRUE,2,null,null,null,2023-03-24 14:09:53
+Hartsville,4533,33,blue,1,Bump,2,0,0,0,0,0,null,null,TRUE,2,2,0,3,0,2,TRUE,null,null,null,TRUE,2,null,null,Fast. Good drive team and robot.,2023-03-24 12:29:59
+Hartsville,4533,37,red,1,Center,0,0,0,0,0,0,TRUE,null,null,0,0,0,2,0,2,null,TRUE,TRUE,null,null,2,null,null,null,2023-03-24 12:15:33
+Hartsville,4533,41,blue,3,Center,0,0,0,2,0,0,TRUE,null,FALSE,2,0,0,3,0,0,null,TRUE,TRUE,null,null,2,null,null,Best manuverability on the field. No field pickup,2023-03-24 12:22:35
+Hartsville,4533,46,red,2,Bump,2,0,0,0,0,0,null,null,TRUE,0,0,0,2,0,0,null,null,null,null,TRUE,2,null,null,null,2023-03-24 11:56:02
+Hartsville,4748,3,red,2,Bump,0,0,0,0,0,0,null,null,TRUE,0,0,2,0,0,2,null,TRUE,null,TRUE,FALSE,0,null,null,They can only push cube/cones,2023-03-24 11:48:13
+Hartsville,4748,9,red,2,Bump,0,0,2,0,0,0,FALSE,null,TRUE,0,0,0,0,0,0,null,TRUE,TRUE,null,null,2,null,null,Was defending a few cubes the entire match.,2023-03-24 12:22:54
+Hartsville,4748,12,blue,3,Bump,0,0,2,0,0,0,null,null,TRUE,0,0,0,0,0,2,null,TRUE,TRUE,null,null,2,null,null,moves fast but choppy,2023-03-24 12:15:44
+Hartsville,4748,20,blue,1,Lane,0,0,2,0,0,0,null,null,null,0,0,0,0,0,2,null,TRUE,null,null,TRUE,2,null,null,Slow movement and struggled with moving a a cone from center,2023-03-24 12:30:03
+Hartsville,4748,24,blue,1,Bump,0,0,2,0,0,0,null,null,null,0,0,0,0,0,0,null,TRUE,TRUE,null,null,2,null,null,slow moving and couldn’t fully collect a game piece from center,2023-03-24 12:07:35
+Hartsville,4748,28,blue,3,Bump,0,0,0,0,0,0,FALSE,FALSE,FALSE,0,0,0,0,0,0,FALSE,TRUE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 11:56:24
+Hartsville,4748,32,red,3,Lane,0,0,2,0,0,0,FALSE,null,TRUE,0,0,0,0,0,0,TRUE,TRUE,null,null,TRUE,0,null,null,null,2023-03-24 11:48:22
+Hartsville,4748,41,red,1,Lane,0,0,2,0,0,0,null,null,TRUE,0,0,0,0,0,2,FALSE,TRUE,null,TRUE,null,2,null,null,null,2023-03-24 10:47:20
+Hartsville,4823,3,red,3,Lane,0,0,0,0,0,0,FALSE,FALSE,TRUE,0,0,0,0,0,0,FALSE,TRUE,FALSE,TRUE,FALSE,3,FALSE,FALSE,Had cone under robot during tele op,2023-03-24 11:40:00
+Hartsville,4823,7,red,2,Lane,0,0,0,0,0,0,FALSE,FALSE,TRUE,0,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,0,FALSE,TRUE,It was pushed into blue loading zones and stopped moving after being rammed a few times.,2023-03-24 11:28:49
+Hartsville,4823,16,blue,2,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,0,0,0,0,TRUE,TRUE,TRUE,null,null,2,null,null,null,2023-03-24 11:14:53
+Hartsville,4823,22,red,1,Bump,0,0,0,0,0,0,null,null,TRUE,0,0,0,0,0,0,null,TRUE,null,null,TRUE,2,null,null,null,2023-03-24 11:06:22
+Hartsville,4823,25,blue,1,Center,0,0,0,0,0,0,FALSE,FALSE,FALSE,0,0,0,0,0,0,FALSE,TRUE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 10:58:00
+Hartsville,4823,29,red,3,Bump,0,0,0,0,0,0,FALSE,FALSE,TRUE,0,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,0,FALSE,TRUE,Battrey fell out,2023-03-24 12:29:29
+Hartsville,4823,32,blue,2,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,0,0,0,0,TRUE,TRUE,null,null,null,2,null,TRUE,They dont have anything to grab and looks started,2023-03-24 12:22:28
+Hartsville,4823,37,red,3,Bump,0,0,2,0,0,0,FALSE,FALSE,TRUE,0,0,0,0,0,0,FALSE,TRUE,TRUE,FALSE,FALSE,2,FALSE,FALSE,They were very agressive,2023-03-24 12:15:13
+Hartsville,4823,42,blue,3,Lane,0,0,2,0,0,0,null,null,TRUE,0,0,0,0,0,0,TRUE,TRUE,null,null,null,2,null,null,null,2023-03-24 12:07:05
+Hartsville,4935,3,blue,3,Center,0,0,0,0,2,0,FALSE,FALSE,FALSE,0,2,0,2,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,3,FALSE,FALSE,attempted to balance in auto but hit the station weird,2023-03-24 11:56:31
+Hartsville,4935,7,blue,3,Bump,0,0,0,0,2,0,FALSE,FALSE,FALSE,2,0,0,2,0,0,TRUE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 11:48:47
+Hartsville,4935,11,blue,1,Lane,0,0,0,0,2,0,null,null,TRUE,2,2,2,2,0,0,null,null,TRUE,FALSE,null,2,null,null,Very fast cycle time and good placment of cones,2023-03-24 12:07:47
+Hartsville,4935,27,red,2,Center,0,0,0,0,2,0,null,TRUE,null,0,0,2,0,2,0,null,null,null,null,null,0,null,TRUE,stopped at the end,2023-03-24 11:57:00
+Hartsville,4935,31,blue,2,Lane,0,0,0,0,2,0,FALSE,FALSE,TRUE,0,0,0,2,2,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,Has an arm that extends out and grabs well,2023-03-24 11:49:01
+Hartsville,4935,36,red,3,Bump,0,0,0,0,0,0,null,null,null,0,0,0,0,0,0,null,null,null,null,TRUE,0,null,TRUE,null,2023-03-24 11:40:12
+Hartsville,4935,39,red,1,Center,0,0,0,0,0,0,null,null,null,0,0,3,0,0,0,TRUE,FALSE,TRUE,FALSE,null,2,null,null,null,2023-03-24 11:28:37
+Hartsville,4935,45,red,3,Bump,0,0,0,0,0,0,null,null,TRUE,2,0,0,2,0,0,TRUE,null,TRUE,null,null,2,null,null,null,2023-03-24 11:13:08
+Hartsville,6167,9,red,3,Lane,0,2,0,0,0,0,null,null,TRUE,0,0,2,0,0,0,null,null,null,null,TRUE,0,null,null,Dropped 2 cubes and slow cycles. Missed the mid node several times and scored hybrid.,2023-03-24 11:06:16
+Hartsville,6167,12,blue,1,Lane,0,0,2,0,0,0,null,null,TRUE,0,2,2,0,0,0,null,null,null,null,TRUE,2,null,null,Very slow,
+Hartsville,6167,15,blue,3,Lane,0,2,0,0,0,0,null,null,TRUE,0,2,0,0,0,0,null,null,null,null,TRUE,0,null,null,Seamed slow at motion,2023-03-24 12:23:39
+Hartsville,6167,23,blue,2,Lane,0,2,0,0,0,0,null,null,TRUE,0,0,3,0,0,0,FALSE,null,null,null,TRUE,2,null,null,Drops objects easily and i think can only get cubes,2023-03-24 12:15:21
+Hartsville,6167,26,blue,2,Bump,0,2,0,0,0,0,null,null,TRUE,0,0,0,0,0,0,null,null,null,null,TRUE,2,null,null,Did nothing other than score one mid cube in auto and drive around.,2023-03-24 10:49:14
+Hartsville,6167,29,red,3,Lane,0,2,0,0,0,0,null,null,TRUE,0,0,2,0,0,0,TRUE,null,null,null,TRUE,2,null,null,null,2023-03-24 11:40:00
+Hartsville,6167,35,blue,1,Bump,0,0,2,0,0,0,null,null,TRUE,2,0,0,0,0,0,TRUE,null,null,null,TRUE,2,null,null,Intresting design. claw jumps when they go over bumper.,2023-03-24 11:28:49
+Hartsville,6167,40,red,3,Bump,0,2,0,0,0,0,null,null,TRUE,0,0,0,0,0,0,null,null,null,null,null,2,null,null,null,2023-03-24 11:14:53
+Hartsville,6167,45,red,2,Center,0,2,0,0,0,0,null,FALSE,null,0,0,0,0,0,0,null,TRUE,null,null,TRUE,2,null,null,null,2023-03-24 11:06:22
+Hartsville,6365,4,blue,1,Bump,0,2,0,0,0,0,FALSE,FALSE,FALSE,0,0,0,2,0,2,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,Autonomous mode made robot dance,2023-03-24 10:47:20
+Hartsville,6366,7,red,1,Center,0,2,0,0,0,0,FALSE,TRUE,FALSE,0,0,0,2,0,0,TRUE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,Trouble grabbing cones and scoeing,2023-03-24 12:07:05
+Hartsville,6366,11,blue,3,Bump,0,2,0,0,0,0,null,null,TRUE,2,0,0,2,0,0,TRUE,null,null,null,TRUE,2,null,null,Hit charge station during autonomous,2023-03-24 11:48:47
+Hartsville,6366,26,blue,3,Lane,0,2,0,0,0,0,FALSE,FALSE,FALSE,2,0,0,2,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,Slow with scoring,2023-03-24 12:37:41
+Hartsville,6366,29,blue,2,Center,0,2,0,0,0,0,TRUE,null,TRUE,2,0,0,2,0,0,null,null,TRUE,null,null,2,null,null,Nothing worth note.,2023-03-24 12:29:29
+Hartsville,6366,33,red,2,Center,0,2,0,0,0,0,TRUE,null,TRUE,2,0,0,2,0,0,null,null,null,TRUE,null,2,null,null,null,2023-03-24 12:22:28
+Hartsville,6366,37,blue,3,Center,0,0,0,0,0,0,TRUE,FALSE,FALSE,0,2,0,2,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 12:15:13
+Hartsville,6366,43,red,2,Center,0,2,0,0,0,0,TRUE,FALSE,TRUE,0,0,0,2,2,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 12:07:34
+Hartsville,6961,4,red,2,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,2,0,0,2,FALSE,TRUE,TRUE,null,null,2,null,null,null,2023-03-24 11:48:48
+Hartsville,6961,7,red,3,Bump,0,0,0,0,0,0,FALSE,FALSE,TRUE,0,0,2,0,0,2,TRUE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,Ran onto the hybrid nodes but were able to recover the robot. shuttled cubes and is capeable of being a defender,2023-03-24 11:40:24
+Hartsville,6961,10,red,3,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,0,0,0,0,null,TRUE,TRUE,null,null,2,null,null,Defended and attempeted to shuttle cubes,2023-03-24 12:07:34
+Hartsville,6961,22,blue,1,Bump,0,0,2,0,0,0,null,null,null,0,0,0,0,0,0,null,null,null,null,null,2,null,TRUE,Stopped moving due to being judged for auto mobility and possible technical issues,2023-03-24 11:56:43
+Hartsville,6961,26,red,3,Bump,0,0,0,0,0,0,null,null,TRUE,0,0,2,0,0,0,TRUE,null,TRUE,null,null,3,null,null,null,2023-03-24 11:48:48
+Hartsville,6961,31,red,2,Lane,0,0,2,0,0,0,FALSE,FALSE,TRUE,0,0,0,0,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,just drove around,2023-03-24 11:40:24
+Hartsville,6961,36,blue,2,Lane,0,0,0,0,0,0,FALSE,FALSE,TRUE,0,0,2,0,0,0,TRUE,null,TRUE,null,null,2,null,null,Has no grabber and can only push,2023-03-24 11:29:22
+Hartsville,6961,39,red,3,Lane,0,0,2,0,0,0,null,null,TRUE,0,0,0,0,0,0,TRUE,TRUE,null,null,null,0,null,null,null,2023-03-24 11:13:02
+Hartsville,7085,3,blue,1,Bump,0,0,2,0,0,0,null,null,null,0,0,0,0,0,0,TRUE,null,TRUE,null,null,3,null,TRUE,Disabled multiple times throughout match but would eventually reenable,2023-03-24 11:05:03
+Hartsville,7085,6,red,2,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,2,0,0,0,null,TRUE,TRUE,null,null,2,null,null,null,2023-03-24 10:57:11
+Hartsville,7085,27,blue,1,Bump,0,0,2,0,0,0,FALSE,null,TRUE,0,0,0,0,0,2,FALSE,TRUE,FALSE,TRUE,null,2,null,null,null,2023-03-24 12:38:51
+Hartsville,7085,32,red,2,Bump,0,0,2,0,0,0,null,null,FALSE,0,0,0,0,0,0,null,null,TRUE,null,null,2,null,TRUE,lost connection to the robot several times,2023-03-24 12:30:00
+Hartsville,7085,35,red,1,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,4,0,0,0,TRUE,null,TRUE,null,null,3,null,null,null,2023-03-24 10:57:11
+Hartsville,7085,40,red,1,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,2,0,0,0,TRUE,FALSE,TRUE,null,null,2,null,null,null,2023-03-24 12:38:51
+Hartsville,7085,45,blue,2,Center,0,0,0,0,0,0,null,null,TRUE,0,0,2,0,0,0,TRUE,null,null,null,TRUE,2,null,null,could only push pieces. struggled with pushing,2023-03-24 12:30:00
+Hartsville,8137,6,blue,1,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,0,0,0,0,null,TRUE,TRUE,null,null,2,null,null,null,2023-03-24 12:22:53
+Hartsville,8137,10,blue,2,Lane,0,0,0,0,0,0,FALSE,FALSE,TRUE,0,0,2,0,0,0,TRUE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,ran over a cone?? did not help their partner get on the bridge. ran into their other team member,2023-03-24 12:15:44
+Hartsville,8137,18,blue,1,Lane,0,0,0,0,0,0,FALSE,null,TRUE,0,0,2,0,0,0,TRUE,FALSE,TRUE,FALSE,null,2,null,null,null,2023-03-24 10:47:42
+Hartsville,8137,21,blue,2,Bump,0,0,0,0,0,0,null,null,TRUE,0,0,2,0,0,2,TRUE,null,TRUE,null,null,2,null,null,Only pushes and no grabber but has a cannon shape,2023-03-24 11:56:29
+Hartsville,8137,25,blue,2,Lane,0,0,0,0,0,0,null,null,TRUE,0,0,5,0,0,0,null,null,TRUE,null,null,2,null,null,Only pushed cubes into low/hybrid,2023-03-24 12:07:43
+Hartsville,8137,33,red,3,Bump,0,0,0,0,0,0,FALSE,null,TRUE,0,0,0,0,0,2,TRUE,TRUE,null,null,FALSE,0,null,null,null,2023-03-24 11:47:45
+Hartsville,8137,39,red,2,Bump,0,0,0,0,0,0,null,null,TRUE,0,0,3,0,0,0,null,null,FALSE,FALSE,null,0,null,null,null,2023-03-24 12:29:44
+Hartsville,8137,45,blue,3,Bump,0,0,0,0,0,0,FALSE,FALSE,TRUE,0,0,2,0,0,2,FALSE,FALSE,FALSE,TRUE,FALSE,2,FALSE,FALSE,Dozer,2023-03-24 12:15:11
+Hartsville,8575,4,red,1,Center,0,0,2,0,0,0,null,null,FALSE,0,0,3,2,0,0,null,null,TRUE,null,null,2,null,null,I lost track but struggled a bit was hard to get top but did once and struggled to pick up and mainly pushed,2023-03-24 12:38:03
+Hartsville,8575,8,blue,2,Lane,0,0,2,0,0,0,FALSE,FALSE,TRUE,0,0,0,2,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,was a very slow robot. interesting stringed arm.,2023-03-24 11:39:51
+Hartsville,8575,13,red,2,Center,0,0,2,0,0,0,FALSE,TRUE,TRUE,0,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,2,FALSE,TRUE,They stoped moving i dont think they broke down though couldnt pick up anything,2023-03-24 11:05:02
+Hartsville,8575,16,blue,3,Bump,0,0,2,0,0,0,null,null,TRUE,0,0,0,0,0,0,null,null,null,null,null,2,null,TRUE,after autonomus. stopped moving apart from wrist movement.,2023-03-24 10:47:37
+Hartsville,8575,20,red,3,Bump,0,0,2,0,0,0,null,null,TRUE,2,2,0,2,0,0,null,null,TRUE,null,null,2,null,null,Struggled with cubes,2023-03-24 11:05:03
+Hartsville,8575,27,blue,3,Center,2,0,0,0,0,0,null,null,null,0,0,2,0,0,0,null,null,null,null,TRUE,2,null,TRUE,Did not operate for 15-25 seconds of match. Regained operation but was not accurate scoring,2023-03-24 10:57:11
+Hartsville,8575,31,blue,1,Center,0,0,2,0,0,0,FALSE,FALSE,TRUE,2,2,0,2,0,0,TRUE,FALSE,TRUE,TRUE,FALSE,2,TRUE,FALSE,intresting build. slow but efficent intake.,2023-03-24 10:47:42
+Hartsville,8575,34,red,2,Lane,0,0,0,0,0,0,null,null,null,2,0,0,0,0,0,null,null,TRUE,null,null,2,null,null,null,2023-03-24 11:06:22
+Hartsville,8575,44,red,2,Center,0,0,2,0,0,0,null,FALSE,TRUE,0,0,2,0,0,0,null,null,TRUE,null,null,2,null,null,null,2023-03-24 10:58:00
+Hartsville,9315,1,blue,2,Bump,0,0,2,0,0,0,null,null,TRUE,0,0,0,0,0,2,null,FALSE,TRUE,null,null,2,null,null,Never used arm pushed game parts into hybrid station,2023-03-24 11:29:22
+Hartsville,9315,6,blue,2,Bump,0,0,2,0,0,0,null,null,TRUE,0,0,0,0,0,2,null,null,TRUE,null,null,2,null,null,Still refused to use arm.,2023-03-24 11:13:02
+Hartsville,9315,13,red,1,Bump,0,0,2,0,0,0,FALSE,FALSE,FALSE,0,0,0,0,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,2,FALSE,FALSE,,2023-03-24 11:14:53
+Hartsville,9315,27,red,3,Bump,0,0,0,0,0,0,null,null,null,0,0,0,0,0,0,null,null,null,null,TRUE,2,null,null,null,2023-03-24 11:40:02
+Hartsville,9315,32,blue,1,Bump,0,0,2,0,0,0,null,null,TRUE,0,0,0,0,0,0,TRUE,null,TRUE,TRUE,null,2,null,null,Struggles to push cubes. slow bot.,2023-03-24 11:29:26
+Hartsville,9315,35,red,3,Bump,0,0,2,0,0,0,null,null,TRUE,0,0,2,0,0,0,null,null,TRUE,null,null,3,null,null,Didn't really move or do much,2023-03-24 11:13:50
+Hartsville,9315,39,blue,2,Bump,0,0,2,0,0,0,FALSE,FALSE,FALSE,0,0,2,0,0,0,TRUE,FALSE,FALSE,TRUE,FALSE,2,FALSE,FALSE,,2023-03-24 11:05:27
+Hartsville,9315,43,blue,1,Bump,0,0,2,0,0,0,FALSE,FALSE,TRUE,0,0,0,0,0,0,TRUE,FALSE,FALSE,TRUE,FALSE,0,FALSE,FALSE,Weird driving this match,2023-03-24 10:48:15
