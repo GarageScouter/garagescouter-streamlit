@@ -1,0 +1,32 @@
+team.number,match.number,team.alliance,initials,team.present,starting.position,amp.completed.auto,amp.attempted.auto,subwoofer.completed.auto,subwoofer.attempted.auto,podium.completed.auto,podium.attempted.auto,medium.completed.teleop,medium.attempted.teleop,midfield.completed.auto,midfield.attempted.auto,amp.completed.teleop,amp.attempted.teleop,subwoofer.completed.teleop,subwoofer.attempted.teleop,podium.completed.teleop,podium.attempted.teleop,midfield.completed.teleop,midfield.attempted.teleop,coopertition,disabled,location.end,score.trap.end,high.note.attempt.end,high.note.score.end,summary.end,timestamp
+6167,45,blue,SA,true,"Touching Subwoofer, Facing AMP",0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-08 19:07:18.192535
+342,44,blue,SA,true,"Touching Subwoofer, Centered",0,0,0,1,0,0,0,0,0,0,1,0,5,2,0,0,0,0,null,null,Climbed from Center Side,null,true,null,null,2024-03-08 19:00:30.939284
+2815,43,blue,SA,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,null,Parked at Podium,null,null,null,shooter stopped working,2024-03-08 18:53:31.942381
+6167,42,blue,JJ,true,"Touching Subwoofer, Facing AMP",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Other,null,null,null,null,2024-03-08 18:44:45.057119
+5130,41,blue,JJ,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,null,null,Climbed from Human Player Side,null,null,null,null,2024-03-08 18:36:06.757182
+281,40,blue,JJ,true,In front of single Driver Station,0,0,1,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,null,null,Climbed from AMP Side,null,null,null,null,2024-03-08 18:25:29.962534
+2815,39,blue,JJ,true,"Touching Subwoofer, Centered",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Climbed from Center Side,null,null,null,Best auto,2024-03-08 18:16:31.736265
+1287,38,blue,JJ,true,"Touching Subwoofer, Centered",0,0,0,1,0,0,0,0,0,0,0,0,8,3,0,0,0,0,null,null,Parked at Podium,null,null,null,More of a clean up crew,2024-03-08 18:00:13.058823
+4533,37,blue,JJ,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-08 17:52:32.521799
+4451,36,blue,AM,true,"Touching Subwoofer, Centered",0,0,1,1,0,0,0,0,0,0,0,0,5,7,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-08 17:45:53.773569
+4189,35,blue,AM,true,"Touching Subwoofer, Facing AMP",0,0,1,0,0,0,0,1,0,0,0,0,3,2,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-08 17:38:52.024857
+8137,34,blue,AM,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Parked at Podium,null,null,null,They were giving notes to other robots on their team,2024-03-08 17:26:00.345654
+1287,33,blue,AM,true,"Touching Subwoofer, Centered",0,0,0,1,0,0,0,0,0,0,2,2,0,1,0,0,0,0,null,null,Climbed from Human Player Side,null,null,null,,2024-03-08 17:16:57.049601
+342,32,blue,AM,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,1,0,9,1,0,0,0,0,null,null,Climbed from Center Side,null,null,null,null,2024-03-08 17:07:40.273089
+1648,31,blue,AM,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,0,0,null,null,Other,null,null,null,They tried to climb but ran out of time,2024-03-08 16:59:07.836650
+1319,30,red,Dc,true,In front of double Driver Station,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,null,null,Parked at Podium,null,null,null,Multiple shooter errors,2024-03-08 16:50:09.715429
+4189,29,red,Dc,null,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,null,null,Parked at Podium,null,null,null,Seems to have some sort of software error,2024-03-08 16:41:02.396927
+5130,28,red,Dc,null,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-08 16:29:58.421227
+1319,27,red,Dc,true,In front of double Driver Station,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,null,null,Parked at Podium,null,null,null,null,2024-03-08 16:21:35.647763
+7676,26,red,Dc,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,null,Other,null,null,null,Slow mo movimg robot that cant seem to score,2024-03-08 16:13:31.315180
+6167,25,red,Dc,true,In front of double Driver Station,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,null,Parked at Podium,null,null,null,They were having some difficulties with moving,2024-03-08 16:03:11.600078
+4451,24,blue,SA,null,"Touching Subwoofer, Centered",0,0,1,1,0,0,0,0,0,0,0,0,2,0,8,1,0,0,null,null,null,null,null,null,null,2024-03-08 15:53:12.184464
+3329,23,blue,SA,null,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,They played wicked defense but did nothing else,2024-03-08 15:46:02.727342
+8736,22,blue,SA,true,"Touching Subwoofer, Centered",0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,null,null,null,null,true,null,Intake is a bit of a struggle for them to pick up but seems effective,2024-03-08 15:36:07.575733
+1051,21,blue,SA,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,null,null,null,null,null,null,Climbed,2024-03-08 15:27:58.201728
+4189,20,blue,SA,true,"Touching Subwoofer, Facing AMP",0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,true,null,null,null,true,true,null,2024-03-08 15:20:14.338390
+9477,19,blue,SA,true,"Touching Subwoofer, Facing Human Player",0,0,1,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,null,null,null,null,null,null,Foucused on speaker intake is okay a bit shakey would of scored all missed notes if a bit more power was put behind it,2024-03-08 15:09:51.862132
+8736,17,red,LS,true,Other,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,null,null,null,null,true,true,Match scoutinf started during teleop therefore not much data was collected.2highnotes scored,2024-03-08 14:51:02.844569
+4533,16,red,NS,true,"Touching Subwoofer, Facing AMP",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,null,null,Climbed from Center Side,null,null,null,null,2024-03-08 14:37:51.850011
+1287,15,red,NS,true,"Touching Subwoofer, Facing Human Player",0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,null,null,Climbed from Human Player Side,null,true,null,null,2024-03-08 14:27:01.683966
+3489,14,red,NS,true,"Touching Subwoofer, Centered",0,0,2,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,null,null,Climbed from Human Player Side,null,null,null,Overshot some notes,2024-03-08 14:17:43.162334

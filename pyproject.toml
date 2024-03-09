@@ -1,3 +1,4 @@
 [tool.black]
 line-length = 100
 experimental-string-processing = true
+i18n_string_format = false

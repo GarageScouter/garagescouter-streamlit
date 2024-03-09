@@ -1,0 +1,12 @@
+from enum import Enum
+
+class Score(Enum):
+    AUTO_SPEAKER = 5
+    AUTO_AMP = 5
+    AUTO_MOBILITY = 2
+
+    TELEOP_SPEAKER = 2
+    TELEOP_AMP = 1
+    
+    TELEOP_SPEAKER_AMPLIFICATION = 5
+    TELEOP_AMP_AMPLIFICATION = 2

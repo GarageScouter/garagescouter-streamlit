@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-from data_pull import read_match_scouting_data
+from old_pages.data_pull import read_match_scouting_data
 
 from st_aggrid import AgGrid, GridOptionsBuilder
 from st_aggrid.shared import ExcelExportMode

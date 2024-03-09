@@ -1,0 +1,45 @@
+team.number,match.number,team.alliance,initials,team.present,starting.position,amp.completed.auto,amp.attempted.auto,subwoofer.completed.auto,subwoofer.attempted.auto,podium.completed.auto,podium.attempted.auto,medium.completed.teleop,medium.attempted.teleop,midfield.completed.auto,midfield.attempted.auto,amp.completed.teleop,amp.attempted.teleop,subwoofer.completed.teleop,subwoofer.attempted.teleop,podium.completed.teleop,podium.attempted.teleop,midfield.completed.teleop,midfield.attempted.teleop,coopertition,disabled,location.end,score.trap.end,high.note.attempt.end,high.note.score.end,summary.end,timestamp
+1051,45,red,JP,true,In front of single Driver Station,0,0,0,1,0,0,0,0,0,0,0,1,3,1,0,0,0,0,true,null,Climbed from AMP Side,null,true,true,null,2024-03-08 19:07:05.999558
+4533,44,red,JP,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,true,null,Climbed from AMP Side,null,true,null,null,2024-03-08 19:00:29.051474
+7676,43,red,JP,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,true,null,Other,null,true,true,null,2024-03-08 18:52:32.950109
+6961,42,red,mt,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Parked at Podium,null,true,null,null,2024-03-08 18:44:23.246991
+4451,41,red,mt,true,In front of single Driver Station,0,0,2,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,null,null,Climbed from Human Player Side,null,true,null,null,2024-03-08 18:35:45.549096
+8137,40,red,mt,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Parked at Podium,null,true,null,null,2024-03-08 18:25:19.276885
+342,39,red,mt,true,In front of double Driver Station,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0,0,0,0,null,null,Climbed from Human Player Side,null,true,null,null,2024-03-08 18:16:22.670004
+3091,38,red,mt,false,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Other,null,null,null,null,2024-03-08 17:59:55.701339
+6366,37,red,mt,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,null,null,Climbed from Center Side,null,true,null,null,2024-03-08 17:52:38.051796
+5130,36,red,JP,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,1,0,0,null,null,Climbed from AMP Side,null,true,true,null,2024-03-08 17:45:11.508595
+343,35,red,JP,true,"Touching Subwoofer, Centered",0,0,1,2,0,0,0,0,0,0,0,0,4,1,3,2,0,0,true,null,Climbed from AMP Side,null,true,true,null,2024-03-08 17:34:15.482658
+2815,34,red,JP,true,"Touching Subwoofer, Centered",0,0,1,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,null,null,Climbed from Human Player Side,null,null,null,null,2024-03-08 17:26:03.306918
+9477,33,red,JP,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,true,null,Climbed from Human Player Side,null,true,null,null,2024-03-08 17:16:53.476823
+2974,32,red,JP,true,"Touching Subwoofer, Centered",2,0,0,0,0,0,0,0,0,0,4,0,3,1,0,0,0,0,null,null,null,false,true,null,null,2024-03-08 17:08:56.102165
+281,31,red,JP,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,null,null,Climbed from AMP Side,null,true,null,null,2024-03-08 16:59:54.575843
+4451,30,red,JB,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,1,1,1,0,5,1,0,0,null,null,Climbed from AMP Side,true,null,null,Auto didnt grab all notes. ,2024-03-08 16:51:47.886066
+9315,29,red,JB,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,false,Other,null,null,null,under the stage. failed auto,2024-03-08 16:41:21.437979
+9477,28,red,JB,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,null,null,Climbed from Human Player Side,null,null,null,Accurate with podium shots. shuttled early in the game (shot into wing). went outside of wing in auto and almost able to climb,2024-03-08 16:31:24.114777
+343,27,red,JB,true,"Touching Subwoofer, Centered",0,0,0,1,0,0,0,0,0,0,0,0,3,3,0,0,0,0,true,null,Other,null,null,null,Parked in middle of field,2024-03-08 16:22:05.026232
+3091,26,red,JB,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Other,null,null,null,Ended under stage,2024-03-08 16:13:38.257878
+5130,25,red,JB,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,null,null,Climbed from AMP Side,null,null,null,Good scoring,2024-03-08 16:03:34.519065
+9561,24,red,mc,true,"Touching Subwoofer, Facing Human Player",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Climbed from Human Player Side,null,null,null,null,2024-03-08 15:53:17.453756
+7085,23,red,mc,true,"Touching Subwoofer, Facing AMP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,null,null,Climbed from Center Side,null,null,null,null,2024-03-08 15:45:25.370520
+9477,22,red,mc,null,"Touching Subwoofer, Facing AMP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,null,null,Climbed from Center Side,null,null,null,null,2024-03-08 15:35:33.963992
+1287,21,red,mc,true,"Touching Subwoofer, Facing Human Player",0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,4,0,0,null,null,Climbed from Center Side,null,null,null,null,2024-03-08 15:27:34.262555
+3976,20,red,mc,null,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,null,null,Climbed from Center Side,null,null,null,null,2024-03-08 15:19:49.832667
+3489,19,red,mc,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-08 15:08:36.381145
+4451,18,red,NL,true,"Touching Subwoofer, Centered",0,0,1,1,0,0,6,1,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,null,A disabled robot was blocking subwoofer,2024-03-08 14:58:38.022643
+3329,17,red,NL,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,They have a weird design and okayef extremely defensively.  They drove over to blue alliance subwoofer and prevented them from scoring,2024-03-08 14:50:30.542180
+4533,16,red,NL,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,true,null,null,null,true,null,Just scoring in amp.  Pretty good climber,2024-03-08 14:38:38.322520
+1648,15,red,NL,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,Starting note got stuck and needed to play defensively.  Climbed early,2024-03-08 14:27:30.718952
+3490,14,red,NL,true,"Touching Subwoofer, Centered",0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,null,null,null,null,true,null,They pushed disabled teamate into stage.  They tried to go for amp often,2024-03-08 14:18:07.858531
+1539,12,blue,AM,true,"Touching Subwoofer, Facing AMP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-08 13:07:09.637979
+281,11,blue,AM,true,In front of single Driver Station,0,0,0,1,0,0,0,0,0,0,3,2,0,0,1,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-08 12:51:51.750546
+3976,10,blue,AM,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,null,null,null,null,null,null,2024-03-08 12:42:42.765519
+6366,9,blue,AM,true,"Touching Subwoofer, Centered",0,0,1,0,1,0,0,0,0,0,0,0,5,1,1,0,0,0,null,null,null,null,null,null,null,2024-03-08 12:28:19.310730
+2974,8,blue,AM,true,"Touching Subwoofer, Centered",0,0,0,1,0,0,0,0,0,0,5,0,3,1,0,0,0,0,null,null,null,null,true,null,null,2024-03-08 12:18:30.334957
+3091,7,blue,AM,null,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,null,null,null,null,false,null,null,2024-03-08 12:10:04.978524
+6561,6,blue,KE,null,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,true,null,2024-03-08 11:59:37.005061
+1287,5,blue,KE,null,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,2,0,1,0,0,1,0,0,null,null,null,null,true,null,They shot into the audiance,2024-03-08 11:45:38.438024
+281,4,blue,KE,true,In front of single Driver Station,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,true,They were still in the same stop for majority of the game and had trouble intaking,2024-03-08 11:37:27.630930
+343,3,blue,KE,true,"Touching Subwoofer, Centered",0,0,1,1,0,0,0,0,0,0,3,0,1,1,1,2,0,0,null,null,null,null,true,null,null,2024-03-08 11:29:04.895511
+2974,2,blue,KE,true,"Touching Subwoofer, Centered",0,0,2,0,0,0,0,0,0,0,2,0,3,1,0,0,0,0,null,null,null,null,true,true,,2024-03-08 11:15:14.206299
+1319,1,blue,KE,null,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,null,null,null,null,true,true,null,2024-03-08 11:04:50.314746

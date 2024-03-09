@@ -5,15 +5,13 @@ import streamlit as st
 from st_aggrid import AgGrid, GridOptionsBuilder, ColumnsAutoSizeMode
 from st_aggrid.shared import ExcelExportMode
 
-from data_pull import read_match_scouting_data
-
 if __name__ == "__main__":
     st.set_page_config(
         page_title="GarageScouter Analytics",
         layout="wide"
     )
     st.title("GarageScouter Analytics")
-    data: pd.DataFrame = read_match_scouting_data()
+    data: pd.DataFrame = pd.DataFrame()
 
 
     st.header("Raw Data", anchor="raw-data")

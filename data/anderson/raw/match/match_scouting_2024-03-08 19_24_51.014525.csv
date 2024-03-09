@@ -1,0 +1,37 @@
+team.number,match.number,team.alliance,initials,team.present,starting.position,amp.completed.auto,amp.attempted.auto,subwoofer.completed.auto,subwoofer.attempted.auto,podium.completed.auto,podium.attempted.auto,medium.completed.teleop,medium.attempted.teleop,midfield.completed.auto,midfield.attempted.auto,amp.completed.teleop,amp.attempted.teleop,subwoofer.completed.teleop,subwoofer.attempted.teleop,podium.completed.teleop,podium.attempted.teleop,midfield.completed.teleop,midfield.attempted.teleop,coopertition,disabled,location.end,score.trap.end,high.note.attempt.end,high.note.score.end,summary.end,timestamp
+3329,35,blue,sn,null,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,null,Other,null,null,null,Malfunctioned,2024-03-08 19:07:15.060624
+3489,44,blue,sn,null,"Touching Subwoofer, Facing Human Player",0,0,1,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,null,null,Climbed from AMP Side,null,null,null,null,2024-03-08 19:00:21.675685
+3091,32,blue,sn,null,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-08 18:52:59.560594
+6961,36,red,ms,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Climbed from AMP Side,null,null,null,Defence only,2024-03-08 17:44:44.828990
+7676,35,red,ms,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,null,null,Climbed from AMP Side,null,null,null,It long time to aim,2024-03-08 17:34:16.424819
+1539,34,red,ms,true,"Touching Subwoofer, Facing Human Player",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Climbed from AMP Side,null,null,null,defence only does not look like they have intake,2024-03-08 17:25:55.571779
+1293,33,red,ms,false,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Climbed from AMP Side,null,null,null,null,2024-03-08 17:13:01.018622
+3091,32,red,ms,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,true,Climbed from AMP Side,null,null,null,Defence,2024-03-08 17:07:34.797352
+3976,31,red,ms,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,true,Climbed from AMP Side,null,null,null,Only shot the begining pieace and missed,2024-03-08 16:58:45.833238
+343,30,blue,QS,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,null,null,Climbed from AMP Side,true,true,null,Robot proved agile and incredibly able to score in amp while weaving passed other robots,2024-03-08 16:51:09.674530
+29,3490,blue,QS,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Other,null,true,false,Robot was immobile the whole match,2024-03-08 16:41:34.198762
+9561,28,blue,QS,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Other,null,true,null,Team cannot score due to no launcher. Robot drive module seems to be experiencing technical difficulties.,2024-03-08 16:30:08.780469
+281,27,blue,QS,true,In front of double Driver Station,0,0,1,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,null,null,Climbed from AMP Side,null,null,null,Good auto,2024-03-08 16:21:38.649595
+8137,26,blue,QS,true,In front of double Driver Station,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Parked at Podium,null,true,true,Never attempted to shoot in tele but acted as support in providing nodes to other bots on its team and provided defense,2024-03-08 16:14:19.504005
+3976,25,blue,QS,true,In front of double Driver Station,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,null,Parked at Podium,null,true,null,robot was unstable in balance and parked ear!y without scoring any points,2024-03-08 16:02:58.110470
+4533,24,blue,PM,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,null,null,Other,null,null,null,null,2024-03-08 15:53:26.218275
+4189,23,blue,PM,true,"Touching Subwoofer, Facing Human Player",0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,null,null,Other,null,null,null,null,2024-03-08 15:45:48.457899
+281,22,blue,PM,true,"Touching Subwoofer, Facing Human Player",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-08 15:35:45.506235
+2815,21,blue,PM,true,"Touching Subwoofer, Facing Human Player",0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,null,null,null,null,null,null,null,2024-03-08 15:27:45.206086
+1648,18,blue,ELF,true,In front of double Driver Station,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,null,null,Climbed from Center Side,null,null,null,They played offense,2024-03-08 14:58:25.479722
+342,17,blue,ELF,true,In front of single Driver Station,0,0,1,0,0,0,0,0,0,0,1,3,0,0,0,0,1,0,null,null,null,null,true,true,Climbed chain,2024-03-08 14:50:42.980667
+9477,76,blue,ELF,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,null,null,null,true,null,null,null,2024-03-08 14:38:17.802891
+6366,14,blue,LS,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,0,0,5,4,0,0,0,0,null,null,null,null,true,false,Climbed,2024-03-08 14:17:29.992958
+342,13,red,LS,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,0,0,5,3,0,0,0,0,null,null,null,null,true,null,They climbed. early game they were 1 for 1 on scoring,2024-03-08 14:09:34.305393
+5130,12,red,FP,true,In front of double Driver Station,0,0,0,0,0,0,0,1,0,0,0,0,4,2,0,0,0,0,null,null,Parked at Podium,null,null,null,Speedy,2024-03-08 13:07:09.432946
+3490,11,red,FP,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0,0,0,0,null,null,Parked at Podium,null,true,null,It fired the note for no reason in auto when it started and it was also capable of both subwoofer and amp but had fairly low accuracy,2024-03-08 12:53:02.483811
+4189,9,red,FP,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,null,null,Other,null,null,null,They had an interesting design but it struggled to line up shots it also parked on the wrong side of the field,2024-03-08 12:28:59.482578
+7085,10,red,FP,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,true,Other,null,null,null,A kitbot that just went forward during auto probably for a position but it stopped and the signal light stopped,2024-03-08 12:43:45.754362
+3329,8,red,FP,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,null,null,Parked at Podium,null,null,null,A fairly skilled driver with a decent defense but weak auto ,2024-03-08 12:19:44.797825
+6167,7,red,FP,true,"Touching Subwoofer, Facing Human Player",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,null,Parked at Podium,null,null,null,They seemed to have trouble turning and intaking.,2024-03-08 12:10:13.011761
+7085,6,red,mt,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,null,null,null,true,null,null,2024-03-08 11:59:28.268429
+3976,5,red,mt,null,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,,2024-03-08 11:45:17.141981
+1293,4,red,mt,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-08 11:36:37.907803
+3229,3,red,mt,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,false,null,null,null,null,null,null,2024-03-08 11:27:34.479650
+2815,2,red,mt,true,"Touching Subwoofer, Centered",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,null,true,null,null,true,null,null,2024-03-08 11:14:32.042045
+8736,1,red,mt,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,null,false,null,null,null,null,null,2024-03-08 11:04:26.804195

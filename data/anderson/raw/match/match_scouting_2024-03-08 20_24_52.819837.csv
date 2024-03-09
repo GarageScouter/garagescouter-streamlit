@@ -1,0 +1,31 @@
+team.number,match.number,team.alliance,initials,team.present,starting.position,amp.completed.auto,amp.attempted.auto,subwoofer.completed.auto,subwoofer.attempted.auto,podium.completed.auto,podium.attempted.auto,medium.completed.teleop,medium.attempted.teleop,midfield.completed.auto,midfield.attempted.auto,amp.completed.teleop,amp.attempted.teleop,subwoofer.completed.teleop,subwoofer.attempted.teleop,podium.completed.teleop,podium.attempted.teleop,midfield.completed.teleop,midfield.attempted.teleop,coopertition,disabled,location.end,score.trap.end,high.note.attempt.end,high.note.score.end,summary.end,timestamp
+9571,45,red,LF,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,null,null,Parked at Podium,null,null,null,null,2024-03-08 19:07:15.382479
+9315,44,red,LF,false,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Other,null,null,null,null,2024-03-08 19:00:47.513678
+9477,43,red,LF,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,true,null,null,null,null,true,null,2024-03-08 18:52:18.614828
+2974,42,red,JB,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,1,0,0,0,5,1,6,0,0,0,0,0,null,null,Other,null,null,null,End in wing. prioritized amp score and coopertition bonus. good aim,2024-03-08 18:45:40.810617
+3490,41,red,JB,true,"Touching Subwoofer, Centered",0,0,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,null,null,Other,null,null,null,Parked under stage. prioritized amp. note got stuck in shooter. switched to defense halfway through,2024-03-08 18:37:05.746861
+1051,40,red,JB,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,null,null,Climbed from Human Player Side,null,null,null,Quick climb. unreliable aim,2024-03-08 18:26:11.339626
+9315,39,red,JB,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Other,null,null,null,ended match around where they began. mightve only been abke to move in an arc?,2024-03-08 18:17:13.889454
+1539,38,red,JB,true,In front of double Driver Station,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,null,null,Other,null,null,null,End under stage. barely scored. defended against opponent in last 20 seconds from climbing,2024-03-08 18:00:35.368347
+2974,37,red,JB,true,"Touching Subwoofer, Centered",0,0,1,0,1,1,0,0,0,0,7,0,4,0,0,0,0,0,null,null,Other,null,null,null,Parked in wing. fast cycles. great aim,2024-03-08 17:53:12.392485
+3976,36,blue,JL,false,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,null,null,2024-03-08 17:44:45.455405
+342,35,red,JL,true,"Touching Subwoofer, Centered",0,0,0,1,0,0,1,0,0,0,0,0,1,3,2,0,0,0,null,null,Climbed from AMP Side,null,true,false,null,2024-03-08 17:34:00.323071
+9561,34,red,JL,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-08 17:25:53.834289
+9315,33,blue,JL,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,true,null,Parked at Podium,null,true,null,null,2024-03-08 17:16:59.934226
+3329,32,blue,JL,false,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,true,null,Climbed from Center Side,null,true,true,defended subwoofer,2024-03-08 17:07:59.107543
+1648,31,blue,JL,true,"Touching Subwoofer, Facing Human Player",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,null,null,Parked at Podium,null,true,false,null,2024-03-08 16:59:01.503006
+8575,30,blue,JL,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,1,0,0,0,0,5,2,0,0,0,0,true,null,Climbed from AMP Side,false,true,false,null,2024-03-08 16:50:10.057259
+6961,26,blue,KE,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,true,They seemed to have no intake or shoot,2024-03-08 16:16:27.012966
+3329,14,red,ms,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,true,null,null,null,null,Robot never move and had to be pushed out of the way,2024-03-08 14:17:32.125112
+3091,12,red,JW,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Other,null,null,null,attempted to climb did not lift off ground,2024-03-08 13:07:56.616116
+2815,11,blue,JW,true,"Touching Subwoofer, Centered",0,0,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,null,null,Climbed from Center Side,false,true,true,null,2024-03-08 12:52:54.831757
+1051,10,red,JW,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,null,null,Climbed from AMP Side,false,true,null,Tank drive,2024-03-08 12:43:36.745878
+1287,9,red,JW,true,Other,0,0,1,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,null,null,Parked at Podium,null,true,true,Fast and accurate good at defending,2024-03-08 12:28:52.681110
+1648,8,red,JW,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Climbed from Human Player Side,null,null,null,Defended entirely in telop has ability to score as seen through auto but unknown why ability was not utlitized in teleop racked on fouls,2024-03-08 12:21:49.818244
+281,7,red,JW,true,In front of single Driver Station,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,null,null,Climbed from Center Side,null,null,null,,2024-03-08 12:11:29.902285
+1539,6,red,NS,false,"Touching Subwoofer, Facing Human Player",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Other,null,null,null,They were not in the match. there was only one robot on the red alliance,2024-03-08 11:59:26.968262
+3490,5,red,NS,true,"Touching Subwoofer, Facing Human Player",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Parked at Podium,null,true,true,They sat in one spot for the whole match,2024-03-08 11:45:55.823867
+6167,4,red,NS,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,null,null,null,null,null,null,null,2024-03-08 11:36:31.611784
+8137,3,red,NS,false,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Other,null,null,null,They were not in the match. there was only one robot on the red alliance.,2024-03-08 11:27:28.295498
+9571,2,red,NL,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,null,null,null,null,true,null,looks like  slightly modified kitbot,2024-03-08 11:14:36.203054
+4451,1,red,NL,true,In front of single Driver Station,0,0,1,0,0,0,6,3,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,null,Alliance human player attemoted high note.  we didnt climb or do coop,2024-03-08 11:04:48.671054

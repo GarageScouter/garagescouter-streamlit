@@ -1,0 +1,27 @@
+team.number,robot.weight,robot.travel.height,robot.max.height,robot.dimensions.length,robot.dimensions.width,robot.drive.train,robot.drive.motors,robot.drive.module,robot.battery,robot.intake.method,robot.climbing.mechanism,robot.under.stage,robot.mechanism.motors,robot.vision.software,robot.vision.cameras,robot.auto.software,other.notes,timestamp
+2815,110,27,35,34,34,Swerve,"[REV NEO Brushless, REV NEO 550]",REV Swerve MAX,mk,[Over-the-Bumper],linier,Yes,[REV NEO Brushless],null,null,null,,2024-03-08 09:59:58.311572
+6167,115,35,35,35,39,Mecanum,[REV NEO Brushless],null,mk,[Under-the-Bumper],linear,No,"[Brushed (CIM, Mini CIM, 775, etc)]",[],null,null,,2024-03-08 09:57:38.751021
+3490,104,24,38,32,32,Swerve,[Falcon 500],Other,mk,[Under-the-Bumper],linier,Yes,"[Falcon 500, REV NEO Brushless]",[Other],"[Arducam OV9281 (Black and White), Other]",null,,2024-03-08 09:54:23.532046
+281,124,26,35,33,36,Swerve,[REV NEO Brushless],Other,duracell,[Under-the-Bumper],linier,Yes,[REV NEO Brushless],null,null,null,,2024-03-08 09:50:46.595576
+3091,82,12,46,30,34,Tank,"[Brushed (CIM, Mini CIM, 775, etc)]",null,mk,[Over-the-Bumper],linear hook,Yes,[REV NEO Brushless],[Other],[Other],null,,2024-03-08 09:49:01.981423
+8575,85,27,38,30,30,Swerve,[REV NEO Brushless],Other,mk,[Under-the-Bumper],linier,Yes,[REV NEO Brushless],[LimeLight],[LimeLight 2],[PathPlanner],,2024-03-08 09:45:17.404238
+3329,95,24,48,35,35,Swerve,[REV NEO Brushless],null,mk,[Over-the-Bumper],linear,Yes,[REV NEO Brushless],null,null,null,,2024-03-08 09:42:50.475787
+343,95,27,46,34,34,Swerve,[REV NEO Brushless],REV Swerve MAX,mk,[Under-the-Bumper],linier,null,"[REV NEO 550, REV NEO Brushless]",[LimeLight],[LimeLight 2],[PathPlanner],,2024-03-08 09:39:34.362033
+1293,51,41,41,25,27,Tank,[REV NEO Brushless],null,mk,[Human Player Feed],n./a,No,"[REV NEO Brushless, REV NEO 550]",null,null,null,,2024-03-08 09:36:17.595928
+9571,58.7,40,30,40,30,Tank,"[Brushed (CIM, Mini CIM, 775, etc)]",null,mk,[Human Player Feed],n/a,No,"[Brushed (CIM, Mini CIM, 775, etc)]",null,null,null,,2024-03-08 09:34:12.917262
+1319,109,27,30,32,32,Swerve,[Falcon 500],Other,mk,[Over-the-Bumper],linier,Yes,[Falcon 500],[LimeLight],[LimeLight 2],null,,2024-03-08 09:32:24.467533
+4189,120,27,48,29,29,Swerve,"[REV NEO Brushless, REV NEO 550]",REV Swerve MAX,mk ,"[Under-the-Bumper, Human Player Feed]",linier,Yes,"[Falcon 500, REV NEO Brushless]",null,null,null,,2024-03-08 09:29:47.656768
+1287,109,26,42,36,36,Swerve,[REV NEO Brushless],Other,andymark,[Under-the-Bumper],linier,Yes,[REV NEO Brushless],[LimeLight],"[Other, LimeLight 2]",[PathWeaver],,2024-03-08 09:26:49.490757
+9477,90,27,30,45,40,Tank,[REV NEO Brushless],null,mk,[Under-the-Bumper],linier,Yes,[REV NEO Brushless],null,null,null,,2024-03-08 09:23:45.136541
+1051,111,47,47,36,36,Swerve,"[REV NEO Brushless, REV NEO 550]",REV Swerve MAX,duracell,[Under-the-Bumper],n/a,No,[REV NEO Brushless],null,null,null,,2024-03-08 09:20:21.118562
+2974,97,15,23,33,33,Swerve,"[Kraken X60, Falcon 500]",null,mk,[Under-the-Bumper],none,Yes,"[REV NEO Brushless, Kraken X60, Falcon 500]",[PhotonVision],null,[Choreo],,2024-03-08 09:17:44.194013
+3976,58.3,48,48,27,33,Tank,[REV NEO Brushless],null,mk,[Human Player Feed],na,No,[REV NEO Brushless],[],null,null,,2024-03-08 09:15:01.291649
+3489,125,27,35,30,30,Swerve,[Falcon 500],Other,power ps ,[Under-the-Bumper],linier,Yes,"[Falcon 500, REV NEO Brushless]",[LimeLight],"[LimeLight 3, LimeLight 2]",null,,2024-03-08 09:12:30.951898
+5130,90,26,39.5,34.5,34.5,Swerve,"[REV NEO Brushless, REV NEO 550]",REV Swerve MAX,mk,[Under-the-Bumper],linier,Yes,[REV NEO Brushless],[],[Other],null,,2024-03-08 09:07:35.279518
+342,98,27,33,35,35,Swerve,[REV NEO Brushless],null,mk,[Over-the-Bumper],linier ,null,[REV NEO Brushless],[LimeLight],[LimeLight 3],[],,2024-03-08 09:04:44.428056
+9315,89,25,40,27,32,Tank,[REV NEO Brushless],null,mk ,[Over-the-Bumper],linier climbers ,Yes,"[Brushed (CIM, Mini CIM, 775, etc), REV NEO Brushless]",[],null,[Timed Code loop],,2024-03-08 09:02:07.318517
+6366,114,27,48,28,29,Swerve,"[Falcon 500, Kraken X60]",Other,mk power,[Under-the-Bumper],flip up climbers ,Yes,"[Kraken X60, Falcon 500]",[LimeLight],"[LimeLight 3, LimeLight 2]",[PathPlanner],,2024-03-08 08:58:47.547282
+1539,81.9,17,17,34,36,Mecanum,"[Brushed (CIM, Mini CIM, 775, etc)]",NA,mk power,[Under-the-Bumper],na,Yes,"[REV NEO Brushless, Brushed (CIM, Mini CIM, 775, etc)]",[Other],[Other],[Timed Code loop],,2024-03-08 08:54:31.606465
+4533,95,27,27,27,30,Swerve,[REV NEO Brushless],null,intersate mk,[Under-the-Bumper],hooks and towers ,Yes,[REV NEO Brushless],[PhotonVision],[Raspberry Pi CSI],"[PathPlanner, Timed Code loop]",,2024-03-08 08:50:45.970362
+6961,38,13,13,38,31,Tank,"[Brushed (CIM, Mini CIM, 775, etc)]",null,interstate battery ,null,none ,Yes,"[Brushed (CIM, Mini CIM, 775, etc)]",null,null,null,,2024-03-08 08:46:35.504164
+7085,70.8,32,32,35.25,35.215,West Coast,"[Brushed (CIM, Mini CIM, 775, etc)]",null,mk power,[Under-the-Bumper],no ,No,"[Brushed (CIM, Mini CIM, 775, etc)]",null,null,null,java ,2024-03-08 08:43:47.514152
