@@ -32,7 +32,8 @@ with column1:
 with column2:
     team_number = st.selectbox(
         label="Select Team Number",
-        options=match_data['team.number'].unique()
+        options=match_data['team.number'].unique(),
+        index=None
     )
 with column3:
     match_selection = st.multiselect(
