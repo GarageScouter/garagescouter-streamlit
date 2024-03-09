@@ -156,8 +156,6 @@ AgGrid(
     },
 )
 
-st.header("Cleaned columns")
-
 column_names_original = match_data.columns
 column_names_pretty = {}
 for key in match_data.columns:
@@ -165,24 +163,44 @@ for key in match_data.columns:
 
 match_data_pretty = match_data.rename(columns=column_names_pretty)
 
-with st.expander("Autonomous", expanded=True):    
-    for column in [
-                "Amp Auto Average",
-                "Subwoofer Auto Average",
-                "Podium Auto Average",
-                "Midfield Auto Average",
-            ]:
-        st.header(column)
-        st.bar_chart(data=match_data_pretty[["Match Number", column]], x="Match Number")
+st.header("Cleaned columns")
+clean_data_grid = GridOptionsBuilder.from_dataframe(match_data_pretty)
+clean_data_grid.configure_pagination(enabled=True, paginationPageSize=10)
+clean_data_grid.configure_default_column(groupable="true", filterable="true")
+clean_data_grid.configure_grid_options(alwaysShowHorizontalScroll=True)
+clean_data_grid.configure_side_bar(filters_panel=True)
+
+AgGrid(
+    match_data_pretty,
+    gridOptions=clean_data_grid.build(),
+    excel_export_mode=ExcelExportMode.MANUAL,
+    allow_unsafe_jscode=True,
+    custom_css={
+        "#gridToolBar": {
+            "padding-bottom": "0px !important",
+        }
+    },
+)
+
+if team_number:
+    with st.expander("Autonomous", expanded=True):    
+        for column in [
+                    "Amp Auto Average",
+                    "Subwoofer Auto Average",
+                    "Podium Auto Average",
+                    "Midfield Auto Average",
+                ]:
+            st.header(column)
+            st.bar_chart(data=match_data_pretty[["Match Number", column]], x="Match Number")
 
 
-with st.expander("Teleop", expanded=True):    
-    for column in [
-                "Amp Teleop Average",
-                "Subwoofer Teleop Average",
-                "Podium Teleop Average",
-                "Medium Teleop Average",
-                "Midfield Teleop Average",
-            ]:
-        st.subheader(column)
-        st.bar_chart(data=match_data_pretty[["Match Number", column]], x="Match Number")
+    with st.expander("Teleop", expanded=True):    
+        for column in [
+                    "Amp Teleop Average",
+                    "Subwoofer Teleop Average",
+                    "Podium Teleop Average",
+                    "Medium Teleop Average",
+                    "Midfield Teleop Average",
+                ]:
+            st.subheader(column)
+            st.bar_chart(data=match_data_pretty[["Match Number", column]], x="Match Number")
