@@ -18,8 +18,10 @@ def query_pit_scouting_data_by_event(event: str) -> pd.DataFrame:
 
     return pd.concat([dataframe])
 
+
 def get_events_available() -> List[str]:
     return os.listdir("data")
+
 
 def query_all_pit_scouting_data() -> pd.DataFrame:
     dataframe = None
@@ -43,17 +45,20 @@ def query_match_scouting_data_by_event(event: str) -> pd.DataFrame:
 
     return pd.concat([dataframe])
 
+
 def query_all_match_scouting_data() -> pd.DataFrame:
     dataframe = None
     for event in os.listdir("data"):
         dataframe = pd.concat([dataframe, query_match_scouting_data_by_event(event=event)])
     return dataframe
 
+
 def load_tba_opr_options() -> List[str]:
-    return [file.removesuffix(".json").capitalize() for file in os.listdir(os.path.join("data", "tba_oprs"))]
+    return [file.removesuffix(".json").capitalize() for file in os.listdir(os.path.join("tba_oprs"))]
+
 
 def load_tba_opr_data(event: str) -> pd.DataFrame:
-    path: str = os.path.join("data", "tba_oprs", f"{event.lower()}.json")
+    path: str = os.path.join("tba_oprs", f"{event.lower()}.json")
 
     if not os.path.exists(path):
         raise Exception("Path does not exist for that event.")
