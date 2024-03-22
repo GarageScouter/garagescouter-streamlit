@@ -1,0 +1,56 @@
+team.number,match.number,team.alliance,initials,team.present,starting.position,amp.completed.auto,amp.attempted.auto,subwoofer.completed.auto,subwoofer.attempted.auto,podium.completed.auto,podium.attempted.auto,medium.completed.teleop,medium.attempted.teleop,midfield.completed.auto,midfield.attempted.auto,amp.completed.teleop,amp.attempted.teleop,subwoofer.completed.teleop,subwoofer.attempted.teleop,podium.completed.teleop,podium.attempted.teleop,midfield.completed.teleop,midfield.attempted.teleop,coopertition,disabled,location.end,score.trap.end,high.note.attempt.end,high.note.score.end,summary.end,timestamp
+832,53,red,NDS,true,"Touching Subwoofer, Facing AMP",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,Attempted to play defense but was unsuccessful.,2024-03-22 18:57:27.181773
+3815,52,red,NDS,true,Other,1,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 18:49:17.454821
+8080,51,red,NDS,true,Other,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,true,They had an issue with their note intake system and towards the end they were hit by another robot and did not move past that point. That being said they have been performing very well up till this match,2024-03-22 18:45:05.645596
+4451,50,red,NDS,true,Other,3,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,null,null,null,true,false,null,the robot is well made but the driver is not very experienced,2024-03-22 18:35:15.693052
+4026,49,red,NDS,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 18:28:54.676169
+5293,48,red,NS,null,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 18:21:01.383609
+3091,47,red,NS,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,null,null,Climbed from Human Player Side,null,null,null,null,2024-03-22 18:14:24.924083
+3815,46,red,NS,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-22 18:08:15.534347
+1002,45,red,NS,null,"Touching Subwoofer, Facing AMP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 18:00:06.634414
+832,44,red,NS,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 17:54:12.347608
+4188,43,red,NS,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,7,3,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-22 17:46:37.235731
+4026,42,red,QS,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,null,null,Climbed from AMP Side,null,true,true,Robot had a one shot auto. robot was agile but had a 50/50 accuracy,2024-03-22 17:40:49.445431
+8865,39,red,QS,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Parked at Podium,null,true,false,Robot had trouble getting note out of shooter the whole match,2024-03-22 17:20:41.965416
+9522,41,red,QS,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Climbed from AMP Side,null,true,true,Robot was unable to load note. robot tried changing into a defense bot but was ineffective.,2024-03-22 17:33:29.770245
+6944,40,red,QS,null,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,null,null,Parked at Podium,null,null,null,Robot seemed unstable while driving slightly tipping side to side,2024-03-22 17:25:51.305616
+6340,38,red,QS,true,"Touching Subwoofer, Centered",0,0,2,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,null,null,Other,null,null,null,Robot not proved nimble but had great autonomy,2024-03-22 17:13:37.963083
+1648,37,red,QS,true,"Touching Subwoofer, Centered",0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Other,null,false,null,While robot proved nimble it does hesitate to shoot,2024-03-22 17:05:25.954828
+6705,36,red,NL,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-22 16:57:00.979115
+9770,35,red,NL,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,null,null,Other,null,true,null,null,2024-03-22 16:48:03.391027
+5561,34,red,NL,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,true,Other,null,true,null,null,2024-03-22 16:41:13.080932
+5109,33,red,NL,true,"Touching Subwoofer, Centered",0,0,0,1,0,0,2,3,0,0,0,0,1,0,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-22 16:32:41.163097
+4026,32,red,NL,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,1,0,0,0,0,1,5,0,0,0,0,null,null,Parked at Podium,null,true,null,null,2024-03-22 16:25:48.017783
+2974,31,red,NL,true,"Touching Subwoofer, Centered",0,0,4,1,0,0,0,0,0,0,6,0,6,2,0,0,0,0,null,null,Parked at Podium,null,true,true,null,2024-03-22 16:18:15.155660
+6340,30,red,wd,true,"Touching Subwoofer, Centered",0,0,1,2,0,0,0,0,0,0,1,0,2,2,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 16:11:56.690531
+4451,29,red,wd,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2,0,0,0,null,null,null,null,true,null,Climber!!! ,2024-03-22 16:02:11.421018
+6887,28,red,wd,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 15:54:18.529639
+6887,28,red,wd,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 15:53:28.651686
+9582,27,red,wd,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,They are a defense bot,2024-03-22 15:44:23.252738
+9770,26,red,wd,null,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,null,false,null,null,null,null,Use kitbot. They also ended on top of another robot?!,2024-03-22 15:36:31.661677
+9057,26,red,wd,true,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 15:30:07.035329
+9057,25,red,wd,true,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 15:29:27.218281
+4459,24,red,VM,false,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 15:21:05.655273
+3815,23,red,VM,true,"Touching Subwoofer, Facing AMP",0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,null,null,Parked at Podium,null,true,true,null,2024-03-22 15:13:32.309458
+9260,22,red,VM,true,"Touching Subwoofer, Facing AMP",0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,null,null,null,null,true,true,null,2024-03-22 15:07:05.000619
+8080,21,red,VM,true,"Touching Subwoofer, Facing AMP",0,0,1,0,0,0,0,0,0,0,1,0,5,2,0,0,0,0,null,null,null,null,true,true,null,2024-03-22 14:58:32.172775
+8100,20,red,VM,true,"Touching Subwoofer, Facing Human Player",0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,null,null,null,null,true,true,null,2024-03-22 14:51:35.228296
+8865,19,red,VM,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,null,null,null,null,true,true,null,2024-03-22 14:45:02.193522
+1648,18,red,AS,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,Cant get speakr or amp; mainly gstherd notes in the center for othrr bots,2024-03-22 14:34:52.050056
+4451,17,red,AS,true,"Touching Subwoofer, Centered",0,0,2,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,null,null,null,null,true,null,Good cycling; accurate on speaker,2024-03-22 14:27:38.665601
+1795,16,red,AS,true,"Touching Subwoofer, Centered",0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,null,null,null,null,true,true,Cant hit speaker; cant hit amp,2024-03-22 14:21:20.553936
+4516,15,red,K,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,null,null,null,null,null,null,note became stuck in their internal mechanisms didnt do anything after that,2024-03-22 14:14:29.735522
+6712,14,red,AM,true,Other,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,null,null,null,null,false,false,null,2024-03-22 14:06:45.127908
+9057,13,red,QS,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,null,null,Parked at Podium,null,true,false,Robot experienced technical difficulties with comms/radio connection as well as having tqo notes stick in its intake.,2024-03-22 12:42:55.894990
+8866,12,red,KE,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,null,false,Parked at Podium,null,true,true,null,2024-03-22 12:34:48.843142
+6340,11,red,KE,true,"Touching Subwoofer, Centered",0,0,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,null,null,Parked at Podium,null,true,null,null,2024-03-22 12:27:38.669352
+2974,10,red,KE,true,"Touching Subwoofer, Centered",0,0,2,0,2,0,1,0,0,0,7,0,3,1,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 12:19:07.749222
+7451,9,red,KE,true,"Touching Subwoofer, Centered",0,0,2,0,1,0,0,0,0,0,4,0,1,2,1,0,0,0,null,null,null,null,true,null,null,2024-03-22 12:12:20.464529
+5900,8,red,KE,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,2,0,1,2,0,0,0,0,null,null,Other,null,null,null,null,2024-03-22 12:05:19.154914
+4189,7,red,KE,null,"Touching Subwoofer, Centered",0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 11:58:15.148783
+6340,6,red,QS,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,null,null,Parked at Podium,null,null,null,team drivers proves to inexperienced ,2024-03-22 11:49:17.963690
+8080,5,red,QS,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,null,null,Other,null,null,false,good driving very nimble. robot could possibly work as a defender,2024-03-22 11:42:12.613443
+9644,6,red,QS,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,null,null,Parked at Podium,null,true,null,While robot is tall and nimble its balance is unstable,2024-03-22 11:34:42.830062
+8866,5,red,QS,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,null,null,Parked at Podium,null,true,true,Driver is very aggressive constatly bumping into the barrier or other bots,2024-03-22 11:27:06.220097
+9522,4,red,QS,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Climbed from Human Player Side,null,null,null,Robot resembles kit bot and has trouble with movement and feeding,2024-03-22 11:18:25.545818
+4026,3,red,QS,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,null,null,Climbed from AMP Side,false,true,null,Robot has no auto and speed of robot seemed slower than viable,2024-03-22 11:09:19.431284

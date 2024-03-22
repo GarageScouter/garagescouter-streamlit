@@ -1,0 +1,23 @@
+team.number,match.number,team.alliance,initials,team.present,starting.position,amp.completed.auto,amp.attempted.auto,subwoofer.completed.auto,subwoofer.attempted.auto,podium.completed.auto,podium.attempted.auto,medium.completed.teleop,medium.attempted.teleop,midfield.completed.auto,midfield.attempted.auto,amp.completed.teleop,amp.attempted.teleop,subwoofer.completed.teleop,subwoofer.attempted.teleop,podium.completed.teleop,podium.attempted.teleop,midfield.completed.teleop,midfield.attempted.teleop,coopertition,disabled,location.end,score.trap.end,high.note.attempt.end,high.note.score.end,summary.end,timestamp
+4026,53,blue,EG,true,"Touching Subwoofer, Facing AMP",0,0,1,0,0,0,1,1,0,0,0,0,0,2,2,0,0,0,null,null,null,null,true,null,Good match,2024-03-22 18:58:25.690850
+1648,52,blue,EG,true,"Touching Subwoofer, Facing AMP",1,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 18:50:33.771137
+5848,51,blue,EG,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,true,null,null,null,null,null,2024-03-22 18:43:38.903603
+1795,50,blue,EG,true,"Touching Subwoofer, Facing Human Player",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-22 18:34:35.129274
+4189,49,blue,EG,true,Other,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,null,null,Climbed from AMP Side,null,null,null,null,2024-03-22 18:29:09.021590
+9057,48,red,KE,true,"Touching Subwoofer, Facing Human Player",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,null,null,Parked at Podium,null,true,true,null,2024-03-22 18:21:53.309365
+5651,47,red,KE,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Parked at Podium,null,true,null,null,2024-03-22 18:15:31.498724
+8865,46,red,KE,true,"Touching Subwoofer, Facing Human Player",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,null,null,Parked at Podium,null,true,null,null,2024-03-22 18:09:08.848200
+4516,45,red,KE,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,null,Parked at Podium,null,true,null,null,2024-03-22 18:00:51.569335
+5109,44,red,KE,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,null,null,Parked at Podium,null,true,null,null,2024-03-22 17:55:18.724758
+8577,43,red,KE,null,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 17:47:07.755200
+6887,42,red,JW,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,true,Other,null,true,null,Disabled around 1 min mark but sporatically gained back comms ended in front of double station kitbot,2024-03-22 17:41:18.600115
+9260,41,red,JW,true,"Touching Subwoofer, Centered",0,0,2,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0,null,null,Parked at Podium,null,true,true,troubles with holding note falls out of hold easily when bumped,2024-03-22 17:33:58.752921
+9770,40,red,JW,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,null,null,Parked at Podium,null,true,null,null,2024-03-22 17:26:32.345911
+9582,39,red,JW,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Parked at Podium,null,true,null,Kitbot,2024-03-22 17:20:12.402317
+5900,38,red,JW,true,In front of single Driver Station,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,null,null,Climbed from AMP Side,null,true,null,from the stands it seems like something may be wrong with their cameras as well as some other factors,2024-03-22 17:14:03.243019
+1414,36,red,jw,true,"Touching Subwoofer, Centered",0,0,0,3,0,0,0,0,0,0,0,0,8,1,0,0,0,0,null,null,Parked at Podium,false,true,null,Auto is off but amazing aim and centering for scoring,2024-03-22 17:05:46.261960
+9770,35,red,NS,true,"Touching Subwoofer, Facing Human Player",0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 16:48:23.793943
+5651,34,red,NS,true,"Touching Subwoofer, Facing AMP",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,Their bumper broke and thry stopped working,2024-03-22 16:41:30.128781
+5109,4027,red,NS,true,"Touching Subwoofer, Centered",0,0,2,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,null,null,Other,null,null,null,null,2024-03-22 16:32:35.301074
+32,4026,red,NS,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,null,null,Other,null,null,null,null,2024-03-22 16:26:23.461420
+8761,30,red,jw,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,false,Parked at Podium,null,false,null,Robot went haywire in auto ran across field and ramed into blue middle bot e-stop likely used did not score rest of match rocked back and forth constantly,2024-03-22 16:12:47.271155

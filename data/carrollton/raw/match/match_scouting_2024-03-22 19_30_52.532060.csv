@@ -1,0 +1,54 @@
+team.number,match.number,team.alliance,initials,team.present,starting.position,amp.completed.auto,amp.attempted.auto,subwoofer.completed.auto,subwoofer.attempted.auto,podium.completed.auto,podium.attempted.auto,medium.completed.teleop,medium.attempted.teleop,midfield.completed.auto,midfield.attempted.auto,amp.completed.teleop,amp.attempted.teleop,subwoofer.completed.teleop,subwoofer.attempted.teleop,podium.completed.teleop,podium.attempted.teleop,midfield.completed.teleop,midfield.attempted.teleop,coopertition,disabled,location.end,score.trap.end,high.note.attempt.end,high.note.score.end,summary.end,timestamp
+1002,53,blue,AS,true,"Touching Subwoofer, Facing Human Player",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,Defene only bot,2024-03-22 18:56:12.135239
+5651,52,blue,AS,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,defense only bot this round,2024-03-22 18:50:16.457638
+6340,51,blue,AS,true,"Touching Subwoofer, Centered",0,0,2,1,0,0,0,0,0,0,1,0,3,1,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 18:42:56.250694
+7451,50,blue,AS,false,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,Missed match,2024-03-22 18:33:16.566691
+6944,49,blue,AS,true,"Touching Subwoofer, Facing AMP",0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 18:28:45.570048
+8577,48,blue,JB,true,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 18:22:00.538980
+4188,47,blue,JB,true,"Touching Subwoofer, Centered",0,0,3,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0,null,null,Other,null,true,null,Quick cycles. only shoots from subwoofer,2024-03-22 18:15:56.054939
+2974,46,blue,JB,true,"Touching Subwoofer, Centered",1,0,0,0,0,0,0,0,0,0,6,1,7,0,0,0,0,0,true,null,Other,null,true,null,Quick cycles. accurate. weird one note auto. only scored subwoofer,2024-03-22 18:09:48.082644
+4459,45,blue,JB,true,"Touching Subwoofer, Facing AMP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Other,null,true,true,Stuck in corner for most of match. didnt score,2024-03-22 18:01:24.464078
+9057,44,blue,JB,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Other,null,null,null,Struggked to remove note from shooter,2024-03-22 17:55:26.678240
+5651,43,blue,JB,false,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 17:47:15.766302
+9580,42,blue,sk,true,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,false,null,they area push bot. nice autonomous bringing center rings to their side,2024-03-22 17:41:02.714282
+4189,41,blue,sk,true,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,Defense bot because a ring got stuck,2024-03-22 17:33:23.047358
+3815,40,blue,sk,true,In front of double Driver Station,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 17:26:07.410869
+4451,39,blue,sk,true,"Touching Subwoofer, Centered",0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,null,null,null,null,true,false,Nice climb,2024-03-22 17:20:48.742967
+8100,38,blue,JB,true,"Touching Subwoofer, Centered",0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,null,null,null,null,true,true,null,2024-03-22 17:12:32.314150
+3091,37,blue,JB,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,true,null,Other,false,true,null,Likely missed a piece score or miss. slow movement and intake,2024-03-22 17:05:11.122717
+9522,36,blue,bb,true,"Touching Subwoofer, Facing Human Player",0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,null,null,Parked at Podium,null,null,null,Requires human intake,2024-03-22 16:58:07.830300
+3815,35,blue,bb,true,In front of double Driver Station,0,1,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,null,null,Other,null,null,null,Intake struggled and robot seemed to bounce as it moved,2024-03-22 16:49:10.060370
+9057,34,blue,bb,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,true,null,Parked at Podium,null,null,null,Note jammed in shooter,2024-03-22 16:42:11.480331
+9500,33,blue,bb,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Climbed from Human Player Side,false,null,null,No intake  defense bot,2024-03-22 16:33:04.100814
+8865,32,blue,bb,null,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,true,null,Parked at Podium,null,null,null,Had a note but never shot    shooter jammed?,2024-03-22 16:27:06.431042
+1795,31,blue,bb,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,true,null,null,null,null,null,Bot didnt drive straight near the end,2024-03-22 16:20:43.577117
+6340,30,red,ES,true,"Touching Subwoofer, Centered",0,0,3,0,0,0,0,0,0,0,2,0,2,3,0,0,0,0,null,null,null,null,false,null,null,2024-03-22 16:12:06.593290
+9500,29,red,ES,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,null,Can only hang and play defense,2024-03-22 16:02:48.795109
+8865,28,red,ES,true,"Touching Subwoofer, Facing Human Player",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 15:54:12.702979
+6712,27,red,ES,true,"Touching Subwoofer, Facing AMP",0,0,0,1,0,0,0,0,0,0,0,0,3,3,0,0,0,0,null,null,null,null,true,null,,2024-03-22 15:44:31.256616
+5293,26,red,ES,true,"Touching Subwoofer, Facing AMP",0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,null,null,null,null,false,null,null,2024-03-22 15:36:09.681131
+9500,25,red,ES,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 15:29:46.134572
+3091,24,blue,PSK,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 15:23:40.935402
+6705,23,blue,PSK,null,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 15:11:15.066818
+9770,22,blue,PSK,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 15:07:02.815171
+6887,21,blue,PSK,null,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 14:59:16.661446
+9522,20,blue,PSK,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 14:51:42.090621
+4189,19,blue,PSK,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,null,null,null,null,true,null,Aggressive,2024-03-22 14:45:55.223345
+9260,18,red,JR,true,Other,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-22 14:35:03.782771
+4026,17,red,JR,true,"Touching Subwoofer, Facing AMP",0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,true,null,null,null,null,null,null,2024-03-22 14:28:14.057518
+1002,16,red,JR,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 14:20:32.467179
+6944,15,red,JR,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,true,null,null,null,null,null,null,2024-03-22 14:14:19.316879
+9582,14,red,AS,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,false,Parked at Podium,null,null,null,Cant intake,2024-03-22 14:06:23.734981
+9260,13,red,AS,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,3,0,4,1,0,0,0,0,null,null,null,null,null,null,Good cycling,2024-03-22 12:43:57.989586
+6705,12,blue,JB,true,"Touching Subwoofer, Centered",0,0,0,1,0,0,0,0,0,0,4,0,1,1,0,0,0,0,null,null,Other,null,true,null,null,2024-03-22 12:36:29.262789
+9500,11,blue,JB,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Climbed from Human Player Side,null,true,null,Shuffled center pieces during auto. played defense somewhat well. quick climb,2024-03-22 12:28:43.104110
+4459,10,blue,JB,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Other,null,null,null,possibly inable to score in speaker,2024-03-22 12:21:53.759742
+9770,9,blue,JB,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,true,Other,null,null,null,disabled in bad spot for the alliance. prevent climbing,2024-03-22 12:14:03.146513
+1795,8,blue,JB,true,"Touching Subwoofer, Facing Human Player",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,null,Other,null,null,null,only intaked one piece. struggled with getting piece in. input is also the output,2024-03-22 12:07:31.484559
+5651,7,blue,JB,true,In front of double Driver Station,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Other,null,null,null,Wheels didnt fully fire in auto,2024-03-22 11:59:52.462279
+1002,6,blue,MM,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,true,Other,null,null,null,Worked for 30sec and disabled,2024-03-22 11:49:30.328938
+3815,5,blue,MM,true,"Touching Subwoofer, Facing AMP",0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,null,null,Other,null,null,null,null,2024-03-22 11:44:21.590547
+4459,4,blue,MM,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,null,Other,null,null,null,Kit bot. Drove around uselessly and missed their only shot.,2024-03-22 11:36:37.466230
+6887,3,blue,MM,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,true,Other,null,null,null,Moved in auton 3ft. Didnt move in game,2024-03-22 11:28:13.887164
+7451,2,blue,MM,true,"Touching Subwoofer, Centered",0,0,3,1,0,0,0,0,0,0,4,1,2,1,0,0,0,0,null,null,Other,null,null,null,null,2024-03-22 11:21:00.282167
+6712,1,blue,MM,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,null,null,Other,null,null,null,Defended mostly and drove around.,2024-03-22 11:10:52.962158

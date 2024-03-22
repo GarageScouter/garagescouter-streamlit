@@ -28,7 +28,7 @@ bulk_pit_data['team.number'] = bulk_pit_data['team.number'].astype(str)
 with column1:
     event = st.selectbox(
         label="Select Event",
-        options=["Anderson"])
+        options=["Anderson", "Carrollton"])
 with column2:
     team_number = st.selectbox(
         label="Select Team Number",
@@ -40,6 +40,9 @@ with column3:
             label="Select which matches you want to filter",
             options=match_data['match.number'],
         )
+
+if event:
+    match_data = match_data[match_data['event'] == event.lower()]
 
 if team_number:
     match_data = match_data[match_data['team.number'] == team_number]

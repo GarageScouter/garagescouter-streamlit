@@ -1,0 +1,14 @@
+team.number,match.number,team.alliance,initials,team.present,starting.position,amp.completed.auto,amp.attempted.auto,subwoofer.completed.auto,subwoofer.attempted.auto,podium.completed.auto,podium.attempted.auto,medium.completed.teleop,medium.attempted.teleop,midfield.completed.auto,midfield.attempted.auto,amp.completed.teleop,amp.attempted.teleop,subwoofer.completed.teleop,subwoofer.attempted.teleop,podium.completed.teleop,podium.attempted.teleop,midfield.completed.teleop,midfield.attempted.teleop,coopertition,disabled,location.end,score.trap.end,high.note.attempt.end,high.note.score.end,summary.end,timestamp
+4026,13,blue,YK,true,"Touching Subwoofer, Facing AMP",0,0,0,1,0,0,0,0,0,0,0,0,1,4,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 12:43:39.487528
+1002,12,blue,DM,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 12:35:26.723098
+5651,11,blue,DM,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 12:28:23.055276
+6944,10,blue,DM,true,"Touching Subwoofer, Facing AMP",0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 12:20:05.398559
+4516,9,blue,DM,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,null,false,null,null,true,true,They were unreliable. not disabled but long pauses,2024-03-22 12:13:33.973046
+5293,8,blue,DM,null,"Touching Subwoofer, Centered",0,0,0,1,0,0,0,0,0,0,2,0,2,0,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 12:05:56.740620
+4188,7,blue,DM,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 11:59:01.690406
+3091,6,red,CMG,true,Other,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,null,null,null,null,null,null,Did not see auto,2024-03-22 11:49:43.987233
+9770,5,red,CMG,true,In front of double Driver Station,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 11:43:02.728757
+5293,4,red,CMG,null,Other,0,0,1,0,0,0,1,0,0,0,2,0,3,2,0,0,0,0,null,null,null,null,null,null,Pretty good not that many notes scored,2024-03-22 11:35:48.102717
+9582,3,red,CMG,false,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,Not present,2024-03-22 11:25:15.157681
+1795,2,red,CMG,true,Other,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,null,null,null,null,null,null,No score auton missed ,2024-03-22 11:20:08.734923
+9500,1,red,CMG,true,In front of double Driver Station,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,null,null,null,null,null,null,Abusive and violent main scoring is just hanging and not very good at it,2024-03-22 11:11:25.565517

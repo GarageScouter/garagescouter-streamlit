@@ -49,7 +49,9 @@ def query_match_scouting_data_by_event(event: str) -> pd.DataFrame:
 def query_all_match_scouting_data() -> pd.DataFrame:
     dataframe = None
     for event in os.listdir("data"):
-        dataframe = pd.concat([dataframe, query_match_scouting_data_by_event(event=event)])
+        event_data = query_match_scouting_data_by_event(event=event)
+        event_data["event"] = event
+        dataframe = pd.concat([dataframe, event_data])
     return dataframe
 
 

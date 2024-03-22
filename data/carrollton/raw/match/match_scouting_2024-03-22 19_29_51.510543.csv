@@ -1,0 +1,48 @@
+team.number,match.number,team.alliance,initials,team.present,starting.position,amp.completed.auto,amp.attempted.auto,subwoofer.completed.auto,subwoofer.attempted.auto,podium.completed.auto,podium.attempted.auto,medium.completed.teleop,medium.attempted.teleop,midfield.completed.auto,midfield.attempted.auto,amp.completed.teleop,amp.attempted.teleop,subwoofer.completed.teleop,subwoofer.attempted.teleop,podium.completed.teleop,podium.attempted.teleop,midfield.completed.teleop,midfield.attempted.teleop,coopertition,disabled,location.end,score.trap.end,high.note.attempt.end,high.note.score.end,summary.end,timestamp
+1414,53,red,CMG,true,In front of single Driver Station,0,0,0,1,0,0,0,1,1,0,0,0,4,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 18:57:53.684685
+9582,52,red,CMG,true,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 18:50:32.085227
+5109,51,red,CMG,null,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,0,0,false,null,null,null,false,null,null,2024-03-22 18:43:22.745146
+8761,50,red,CMG,null,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,Defense bot,2024-03-22 18:34:36.707235
+8100,49,red,CMG,true,Other,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,,2024-03-22 18:30:11.141269
+6887,48,blue,DM,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 18:22:04.227524
+9970,47,blue,DM,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 18:15:19.671279
+9582,46,blue,DM,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 18:09:06.547484
+6705,45,blue,DM,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,3,0,1,1,0,0,0,0,null,null,null,null,true,true,null,2024-03-22 18:00:54.838666
+1414,44,blue,DM,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 17:55:00.171024
+8761,43,blue,DM,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 17:47:29.215440
+6340,42,blue,AS,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 17:40:53.448190
+8080,41,blue,AS,true,"Touching Subwoofer, Facing AMP",0,0,1,0,0,0,0,0,0,0,1,0,3,1,0,0,0,0,null,null,null,null,null,null,consistent ,2024-03-22 17:33:01.096005
+7451,40,blue,AS,true,"Touching Subwoofer, Centered",0,0,3,0,1,0,0,0,0,0,5,0,1,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 17:25:44.806202
+3635,39,blue,AS,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 17:20:08.106433
+832,38,blue,AS,true,In front of single Driver Station,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,true,,2024-03-22 17:12:53.385132
+4026,37,blue,AS,true,"Touching Subwoofer, Centered",0,0,0,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 17:04:53.646925
+8866,36,blue,DM,true,In front of single Driver Station,0,0,1,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 16:57:38.781007
+4516,35,blue,DM,true,In front of single Driver Station,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 16:48:32.586388
+7451,34,blue,DM,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,1,0,9,0,0,0,0,0,null,null,null,null,true,true,null,2024-03-22 16:41:54.334296
+9500,33,blue,DM,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 16:32:32.493316
+5900,32,blue,DM,true,"Touching Subwoofer, Centered",0,0,1,2,0,0,0,0,0,0,0,0,3,5,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 16:26:20.388304
+4188,31,blue,EG,true,In front of single Driver Station,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,true,true,null,2024-03-22 16:18:51.534615
+8080,30,blue,EG,true,"Touching Subwoofer, Facing AMP",1,0,0,0,0,0,0,0,0,0,5,1,1,0,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-22 16:11:59.215319
+1648,29,blue,EG,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,null,null,Other,null,true,null,null,2024-03-22 16:02:49.082689
+6944,28,blue,EG,true,"Touching Subwoofer, Facing AMP",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-22 15:54:23.019489
+3815,27,blue,EG,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,null,null,Other,null,null,null,null,2024-03-22 15:46:14.196213
+1002,26,blue,EG,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,true,null,Parked at Podium,null,null,null,null,2024-03-22 15:35:44.329716
+5109,24,blue,JB,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,true,Other,null,null,null,Didnt move,2024-03-22 15:23:30.876491
+9582,23,blue,JB,true,"Touching Subwoofer, Facing Human Player",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,true,Other,null,true,null,Didnt move,2024-03-22 15:14:03.757590
+4026,22,blue,JB,true,"Touching Subwoofer, Centered",0,0,1,1,0,0,0,0,0,0,0,0,6,3,0,0,0,0,null,null,Other,null,true,null,Any misses seemed intentional to dislodge a note or right after a quick turn,2024-03-22 15:08:11.229241
+6944,21,blue,JB,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,4,0,2,1,0,0,0,0,true,null,Other,null,true,null,null,2024-03-22 15:00:30.655574
+832,20,blue,JB,true,"Touching Subwoofer, Facing AMP",0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,null,null,Other,null,null,null,null,2024-03-22 14:51:42.817242
+3815,19,blue,JB,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,null,null,Parked at Podium,null,true,null,null,2024-03-22 14:45:36.860909
+1414,18,blue,HCS,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,Robot disabled at the start,2024-03-22 14:33:40.353552
+3635,17,blue,EG,true,"Touching Subwoofer, Facing Human Player",0,1,0,1,0,0,0,0,0,0,0,0,2,3,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 14:28:04.481612
+5651,16,blue,EG,true,In front of double Driver Station,0,1,0,1,0,0,0,0,0,0,0,3,0,3,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-03-22 14:21:53.864560
+8080,15,blue,EG,true,"Touching Subwoofer, Facing Human Player",0,1,0,0,0,0,0,0,0,0,5,1,5,1,2,0,0,0,null,null,null,null,null,true,null,2024-03-22 14:14:58.420433
+3091,14,blue,EG,true,"Touching Subwoofer, Facing Human Player",0,0,0,0,0,0,0,0,0,0,3,1,0,0,2,0,0,0,null,null,null,null,null,null,null,2024-03-22 14:07:35.457783
+5109,13,blue,EG,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,7,0,1,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 12:43:13.826745
+3091,7,red,WD,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,null,2024-03-22 11:50:11.044949
+3091,6,red,WD,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,null,null,null,null,true,null,null,2024-03-22 11:49:18.352361
+9770,5,red,WD,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,null,null,null,null,null,null,They use the kitbot,2024-03-22 11:42:16.396583
+5848,4,red,WD,null,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,Team didnt show,2024-03-22 11:34:42.343042
+9582,3,red,WD,null,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,Unfortunatley team once again was not there,2024-03-22 11:25:57.207155
+1648,2,red,HS,false,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,The team was not there,2024-03-22 11:19:34.805392
+1414,1,red,WD,true,In front of single Driver Station,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,0,0,0,null,null,null,null,true,null,Auto was goofy and they flipped 8100,2024-03-22 11:09:30.504911
