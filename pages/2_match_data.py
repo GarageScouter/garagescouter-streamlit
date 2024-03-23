@@ -20,7 +20,7 @@ event: str = ""
 team_number: int = 0
 match_selection: List[TypeVar] = []
 
-match_data: pd.DataFrame = query_all_match_scouting_data().sort_values(by=['team.number', 'match.number'])
+match_data: pd.DataFrame = query_all_match_scouting_data().sort_values(by=['team.number', 'match.number', 'event'])
 
 bulk_pit_data = match_data.copy()
 bulk_pit_data['team.number'] = bulk_pit_data['team.number'].astype(str)
