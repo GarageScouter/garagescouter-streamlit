@@ -1,0 +1,30 @@
+team.number,match.number,team.alliance,initials,team.present,starting.position,amp.completed.auto,amp.attempted.auto,subwoofer.completed.auto,subwoofer.attempted.auto,podium.completed.auto,podium.attempted.auto,medium.completed.teleop,medium.attempted.teleop,midfield.completed.auto,midfield.attempted.auto,amp.completed.teleop,amp.attempted.teleop,subwoofer.completed.teleop,subwoofer.attempted.teleop,podium.completed.teleop,podium.attempted.teleop,midfield.completed.teleop,midfield.attempted.teleop,coopertition,disabled,location.end,score.trap.end,high.note.attempt.end,high.note.score.end,summary.end,timestamp
+5010,49,blue,JEL,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,5,1,7,1,0,0,0,0,true,null,Climbed from Human Player Side,null,true,false,null,2024-04-19 18:00:13.813548
+1747,49,blue,JEL,true,"Touching Subwoofer, Facing Human Player",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,true,null,Climbed from AMP Side,null,true,null,null,2024-04-19 17:56:02.708548
+4391,48,blue,JEL,true,"Touching Subwoofer, Facing AMP",0,0,1,0,0,0,1,2,0,0,0,0,9,3,0,0,0,0,true,null,Climbed from Human Player Side,null,true,null,null,2024-04-19 17:51:25.155508
+5010,37,red,JEL,true,"Touching Subwoofer, Facing AMP",0,0,1,0,0,0,1,2,0,0,1,0,0,0,2,1,0,0,true,null,Climbed from Center Side,false,true,null,null,2024-04-19 17:47:18.755353
+525,43,blue,JEL,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,1,2,0,0,3,1,5,0,0,0,0,0,true,null,Climbed from AMP Side,null,true,null,null,2024-04-19 12:58:53.359549
+5587,40,red,JEL,true,"Touching Subwoofer, Centered",0,0,3,0,0,0,0,0,0,0,7,0,4,2,0,0,0,0,true,null,Climbed from Human Player Side,null,true,null,null,2024-04-19 12:50:48.905345
+525,33,red,JEL,true,"Touching Subwoofer, Facing Human Player",0,0,1,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,true,null,Climbed from Human Player Side,null,true,null,null,2024-04-19 12:41:18.628281
+9128,63,red,JJ,true,"Touching Subwoofer, Centered",0,0,3,0,0,0,0,0,0,0,4,0,2,0,0,0,0,0,null,null,null,null,null,null,null,2024-04-19 09:01:56.577217
+1899,63,red,JJ,true,"Touching Subwoofer, Centered",0,0,3,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,null,null,Other,null,null,null,null,2024-04-19 09:01:30.526846
+2582,55,red,ms,true,"Touching Subwoofer, Facing AMP",0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,null,null,null,null,null,null,Feeder and almost buddy climb,2024-04-18 18:05:44.095998
+1816,54,blue,ms,true,"Touching Subwoofer, Centered",0,0,3,0,0,0,0,0,0,0,7,0,5,0,0,0,0,0,null,null,null,null,null,null,Did not park,2024-04-18 17:57:36.898309
+7312,53,blue,ms,true,"Touching Subwoofer, Centered",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,One got stuck on in auto,2024-04-18 17:48:31.591482
+5584,49,blue,FP,true,"Touching Subwoofer, Facing Human Player",0,0,2,0,0,0,0,0,0,0,3,1,3,0,0,0,0,0,true,null,null,null,true,false,not bad but not good enough to beat us 😎,2024-04-18 17:16:49.643593
+1414,47,blue,FP,true,"Touching Subwoofer, Facing AMP",0,0,3,0,0,0,0,0,0,0,7,0,7,2,0,0,0,0,true,null,Parked at Podium,null,null,null,Same thing as match 46 im for real about to tell this kid to sit the hell down😡👺,2024-04-18 17:02:08.554483
+5436,46,blue,FP,true,"Touching Subwoofer, Centered",0,0,1,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,true,null,Parked at Podium,null,true,null,Take all data from this match with a grain of salt as a kid from texas torque was blocking my view of the field,2024-04-18 16:54:36.893512
+1414,37,blue,FP,true,"Touching Subwoofer, Facing AMP",0,0,2,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,true,null,Parked at Podium,null,true,null,Really accurate,2024-04-18 15:33:16.622066
+5436,34,red,FP,true,"Touching Subwoofer, Centered",0,0,2,1,0,0,0,0,0,0,1,0,3,2,0,0,0,0,true,null,Climbed from Center Side,null,true,null,Pretty slow,2024-04-18 15:26:13.919434
+4611,33,red,ns,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-04-18 15:03:15.467814
+325,31,red,ns,true,In front of double Driver Station,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,null,null,Climbed from Human Player Side,null,null,null,null,2024-04-18 14:48:43.072182
+2582,27,red,ms,null,"Touching Subwoofer, Centered",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,Was feeder and did not park,2024-04-18 12:55:29.275210
+7312,25,blue,ms,true,"Touching Subwoofer, Facing Human Player",0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,null,null,null,null,Feed team mates notes and buddy climb,2024-04-18 12:39:52.661399
+2582,18,red,ms,true,"Touching Subwoofer, Centered",0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,null,null,null,null,null,null,Feed note to team mate and climbed,2024-04-18 11:47:56.384997
+4766,17,red,mc,null,In front of single Driver Station,0,0,0,0,0,0,8,0,0,0,0,0,0,0,3,0,0,0,null,null,Climbed from Human Player Side,null,null,null,null,2024-04-18 11:38:32.187294
+2959,15,blue,mc,null,In front of single Driver Station,0,0,0,0,0,0,3,1,0,0,0,0,0,0,1,0,0,0,null,null,Climbed from Center Side,null,null,null,null,2024-04-18 11:22:47.453097
+1816,14,red,ms,true,"Touching Subwoofer, Centered",0,0,3,0,0,0,0,0,0,0,7,0,4,0,0,0,0,0,null,null,null,null,null,null,Did good job at stealing notes,2024-04-18 11:15:55.164768
+7312,8,red,ms,true,"Touching Subwoofer, Facing Human Player",0,0,1,0,0,0,0,0,0,0,3,0,6,1,0,0,0,0,null,null,null,null,null,null,Attemped a double climb but failed,2024-04-18 10:23:17.163420
+1816,6,red,ms,true,In front of double Driver Station,0,0,0,0,0,0,0,0,0,0,5,0,4,1,0,0,0,0,null,null,null,null,null,null,got fouled once,2024-04-18 10:08:09.112189
+4342,3,red,mc,false,"Touching Subwoofer, Facing AMP",0,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,null,null,Climbed from Human Player Side,null,null,null,null,2024-04-18 09:51:57.094122
+525,1,red,NL,true,"Touching Subwoofer, Centered",0,0,1,1,0,0,3,0,0,0,4,0,7,1,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-04-18 09:17:34.981428

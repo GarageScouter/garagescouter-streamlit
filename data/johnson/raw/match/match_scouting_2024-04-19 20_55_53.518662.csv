@@ -1,0 +1,25 @@
+team.number,match.number,team.alliance,initials,team.present,starting.position,amp.completed.auto,amp.attempted.auto,subwoofer.completed.auto,subwoofer.attempted.auto,podium.completed.auto,podium.attempted.auto,medium.completed.teleop,medium.attempted.teleop,midfield.completed.auto,midfield.attempted.auto,amp.completed.teleop,amp.attempted.teleop,subwoofer.completed.teleop,subwoofer.attempted.teleop,podium.completed.teleop,podium.attempted.teleop,midfield.completed.teleop,midfield.attempted.teleop,coopertition,disabled,location.end,score.trap.end,high.note.attempt.end,high.note.score.end,summary.end,timestamp
+4766,76,blue,mc,false,In front of double Driver Station,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,null,null,Climbed from Human Player Side,null,null,null,null,2024-04-19 10:53:16.236984
+5436,74,red,FP,true,"Touching Subwoofer, Centered",0,0,2,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,true,null,Parked at Podium,null,true,null,null,2024-04-19 10:34:34.883489
+3061,73,blue,FP,true,"Touching Subwoofer, Centered",0,0,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,true,null,Parked at Podium,null,true,null,Played a decent defense,2024-04-19 10:22:51.267134
+5584,69,blue,FP,true,"Touching Subwoofer, Facing AMP",0,0,2,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,true,null,Climbed from Center Side,null,true,true,Very slow and bad driver,2024-04-19 09:52:47.168909
+973,68,blue,mc,null,"Touching Subwoofer, Facing AMP",0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,null,null,Climbed from Center Side,null,null,null,null,2024-04-19 09:43:08.503305
+1414,67,red,FP,true,"Touching Subwoofer, Facing Human Player",0,0,3,0,0,0,0,0,0,0,9,1,8,2,0,0,0,0,true,null,Parked at Podium,null,true,null,Amazing auto and good dualist,2024-04-19 09:31:33.289112
+589,64,red,FP,true,"Touching Subwoofer, Facing Human Player",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,true,null,Climbed from AMP Side,null,true,null,terrible auto and a terrible feeder that can barely pass,2024-04-19 09:09:06.632083
+589,54,red,FP,true,"Touching Subwoofer, Facing AMP",0,0,1,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,true,null,Climbed from Human Player Side,null,true,null,Pretty slow and terrible auto,2024-04-18 17:57:18.053877
+2659,44,red,mc,null,In front of single Driver Station,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,null,null,Climbed from Center Side,null,null,null,null,2024-04-18 16:38:05.777002
+4766,40,red,mc,null,In front of double Driver Station,0,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,null,null,Climbed from Human Player Side,null,null,null,null,2024-04-18 15:58:10.815894
+4450,29,red,NL,true,"Touching Subwoofer, Facing Human Player",0,0,2,0,0,0,0,0,0,0,5,0,4,0,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-04-18 13:10:46.515913
+1768,28,red,NL,true,In front of double Driver Station,0,0,0,1,0,0,7,2,0,0,7,0,2,0,0,0,0,0,null,null,Climbed from AMP Side,null,true,null,Buddy climbed,2024-04-18 13:03:30.692180
+2851,27,red,NL,true,"Touching Subwoofer, Facing Human Player",0,0,1,0,0,0,0,0,0,0,4,0,3,1,0,0,0,0,true,null,Climbed from Human Player Side,null,true,true,null,2024-04-18 12:54:54.770820
+1683,26,blue,JB,true,"Touching Subwoofer, Facing AMP",0,0,1,0,0,1,0,0,0,0,0,0,7,0,1,0,0,0,null,null,Parked at Podium,null,true,true,Slow start,2024-04-18 12:47:22.086362
+1477,13,blue,ELF,true,"Touching Subwoofer, Centered",0,0,4,1,0,0,0,0,1,0,2,0,4,1,0,0,0,0,null,null,Climbed from AMP Side,null,true,null,Feeder; consistent innshooting position and cycle time,2024-04-18 11:05:32.672547
+3061,10,red,FP,true,"Touching Subwoofer, Facing Human Player",0,0,1,0,0,0,0,0,0,0,0,0,5,0,1,1,0,4,true,null,Climbed from AMP Side,null,true,null,A really good and fast feeder bot,2024-04-18 10:37:51.675844
+4381,8,blue,ELF,true,"Touching Subwoofer, Facing AMP",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,null,null,Climbed from Human Player Side,false,true,null,Feeder bot; gathered a lot for team; and attempted trap,2024-04-18 10:23:26.567698
+1701,7,blue,JB,true,In front of double Driver Station,0,0,1,0,0,0,2,0,0,0,7,5,2,0,2,0,0,0,true,null,Other,null,null,null,Very accurate shots. shooting amp scorer,2024-04-18 10:15:40.176013
+1683,6,blue,JB,true,"Touching Subwoofer, Facing Human Player",0,0,1,0,1,0,0,0,0,0,0,0,1,0,4,1,0,0,true,null,Parked at Podium,null,true,true,Shuttles well,2024-04-18 10:07:05.774211
+ 1787,5,red,NS,true,In front of single Driver Station,0,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,null,null,Climbed from AMP Side,null,null,true,null,2024-04-18 09:58:15.351351
+1768,4,red,NL,true,In front of double Driver Station,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,7,4,true,null,Other,false,true,null,null,2024-04-18 09:51:30.292438
+4020,3,blue,JB,true,"Touching Subwoofer, Centered",0,0,1,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,true,null,Other,null,true,true,Drifted at end of match,2024-04-18 09:44:50.043505
+4611,2,red,NS,true,In front of double Driver Station,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,null,null,Parked at Podium,null,null,null,null,2024-04-18 09:36:42.476809
+1706,1,blue,JB,true,"Touching Subwoofer, Facing AMP",0,0,0,0,3,0,0,0,0,0,7,0,1,0,3,1,0,0,true,null,Climbed from Center Side,true,true,true,Dual sided intake,2024-04-18 09:17:02.611257

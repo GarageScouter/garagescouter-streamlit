@@ -1,0 +1,16 @@
+team.number,match.number,team.alliance,initials,team.present,starting.position,amp.completed.auto,amp.attempted.auto,subwoofer.completed.auto,subwoofer.attempted.auto,podium.completed.auto,podium.attempted.auto,medium.completed.teleop,medium.attempted.teleop,midfield.completed.auto,midfield.attempted.auto,amp.completed.teleop,amp.attempted.teleop,subwoofer.completed.teleop,subwoofer.attempted.teleop,podium.completed.teleop,podium.attempted.teleop,midfield.completed.teleop,midfield.attempted.teleop,coopertition,disabled,location.end,score.trap.end,high.note.attempt.end,high.note.score.end,summary.end,timestamp
+1701,82,red,JB,true,"Touching Subwoofer, Facing AMP",0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Climbed from AMP Side,null,true,null,null,2024-04-19 11:51:05.624229
+494,49,red,JJ,true,"Touching Subwoofer, Centered",0,0,2,0,0,0,0,0,0,0,7,0,7,0,0,0,0,0,null,null,Climbed from AMP Side,null,null,null,null,2024-04-18 17:15:46.750484
+3647,48,red,JJ,true,"Touching Subwoofer, Centered",0,0,1,4,0,0,0,0,0,0,1,2,4,2,0,0,0,0,null,null,Parked at Podium,null,null,null,Atmtid budy climb,2024-04-18 17:09:28.705857
+4020,44,red,JB,true,"Touching Subwoofer, Facing Human Player",0,0,1,0,0,0,0,0,0,0,7,0,5,0,0,0,0,0,true,null,Parked at Podium,null,true,null,null,2024-04-18 16:38:50.587468
+1706,40,red,JB,true,In front of double Driver Station,0,0,0,0,2,0,1,0,0,0,0,0,0,0,2,0,0,0,true,null,Climbed from Center Side,null,true,true,null,2024-04-18 15:58:43.157717
+1701,38,red,JB,true,In front of double Driver Station,0,0,1,0,1,1,0,0,0,0,0,0,0,0,6,1,0,0,true,null,Climbed from AMP Side,null,true,true,null,2024-04-18 15:40:26.820031
+2659,36,blue,mc,false,In front of double Driver Station,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,0,0,0,null,null,Climbed from Center Side,null,null,null,null,2024-04-18 15:25:47.618273
+3061,20,blue,FP,true,"Touching Subwoofer, Facing Human Player",0,0,1,0,1,0,0,0,0,0,0,0,0,0,8,0,0,0,true,null,Parked at Podium,null,true,null,Very accurate good range amd good feeder,2024-04-18 12:03:38.206898
+589,19,blue,FP,true,"Touching Subwoofer, Facing Human Player",1,0,0,1,0,0,0,0,0,0,1,0,4,2,0,0,0,0,null,null,Climbed from AMP Side,null,true,true,Low accuracy,2024-04-18 11:54:46.405113
+1414,18,red,FP,true,"Touching Subwoofer, Facing Human Player",0,0,0,1,0,0,0,0,0,0,3,1,7,2,0,0,0,0,null,null,Parked at Podium,null,true,true,Fed itself then ran back to score amp once amplified went for sub just good strat,2024-04-18 11:48:46.751941
+1899,16,red,JJ,true,"Touching Subwoofer, Centered",0,0,3,1,0,0,0,0,0,0,0,1,9,3,0,0,0,0,null,null,Other,null,null,null,null,2024-04-18 11:30:10.302573
+9128,14,red,JJ,true,"Touching Subwoofer, Centered",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,null,null,Climbed from Center Side,null,null,null,null,2024-04-18 11:15:34.707478
+589,11,red,FP,true,"Touching Subwoofer, Facing AMP",0,0,1,0,0,0,0,0,0,0,0,0,7,1,0,0,0,0,true,null,Parked at Podium,null,true,false,A pretty slow robot nothing special,2024-04-18 10:50:25.037059
+7021,9,red,NL,true,"Touching Subwoofer, Centered",0,0,2,0,0,0,3,2,0,0,2,0,0,0,0,0,0,0,null,null,Climbed from Human Player Side,null,true,null,null,2024-04-18 10:29:54.798205
+1747,7,red,JEL,true,In front of double Driver Station,0,0,1,0,0,0,0,0,0,0,5,0,3,0,0,0,0,0,true,null,Other,null,true,null,Tried to climb. didnt get up enough.,2024-04-18 10:16:07.809035

@@ -28,7 +28,7 @@ bulk_pit_data['team.number'] = bulk_pit_data['team.number'].astype(str)
 with column1:
     event = st.selectbox(
         label="Select Event",
-        options=["Anderson", "Carrollton"])
+        options=["Anderson", "Carrollton", "Johnson"])
 with column2:
     team_number = st.selectbox(
         label="Select Team Number",
